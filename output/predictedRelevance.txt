@@ -1,0 +1,1512 @@
+queryNo: 1	Query: computer science master
+Ranking of URL:
+https://web.stanford.edu/dept/registrar/bulletin1112/5254.htm	PredictedValue: 1.0
+https://msande.stanford.edu/	PredictedValue: 1.0
+http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1240861	PredictedValue: 0.999999998811
+https://www-cs.stanford.edu/academics/prospective-masters	PredictedValue: 0.999999827045
+http://cs.stanford.edu/people/eroberts/mscsed/Admissions-MSInCSEducation.html	PredictedValue: 0.999999617959
+http://scpd.stanford.edu/online-engineering-courses.jsp	PredictedValue: 0.904660241651
+https://www-cs.stanford.edu/admissions/visiting-cs	PredictedValue: 0.896976733055
+https://www-cs.stanford.edu/admissions/deadlines	PredictedValue: 0.896976733055
+https://www-cs.stanford.edu/academics/current-masters/faq	PredictedValue: 0.883998927348
+https://www-cs.stanford.edu/academics/phd/graduate-student-forms	PredictedValue: 0.869614163437
+
+queryNo: 2	Query: it resources
+Ranking of URL:
+http://med.stanford.edu/irt.html	PredictedValue: 0.999999999995
+https://earth.stanford.edu/ere	PredictedValue: 0.999999996636
+https://ee.stanford.edu/student-resources/it-resources	PredictedValue: 0.999990936341
+https://ee.stanford.edu/student-resources	PredictedValue: 0.981422378151
+http://ether.stanford.edu/new_computer.html	PredictedValue: 0.980393058993
+https://answers.stanford.edu/solution/where-can-i-find-other-it-resources	PredictedValue: 0.94541370251
+https://ee.stanford.edu/current-MS	PredictedValue: 0.760969589609
+https://ee.stanford.edu/student-resources/CA-appointments/helpful-information/support-systems	PredictedValue: 0.721985967684
+https://ee.stanford.edu/student-resources/student-payroll	PredictedValue: 0.721729957634
+https://ee.stanford.edu/node/1892	PredictedValue: 0.582861792133
+
+queryNo: 3	Query: marguerite schedule
+Ranking of URL:
+https://transportation.stanford.edu/marguerite/y	PredictedValue: 1.0
+https://transportation.stanford.edu/marguerite/view-maps-and-schedules/limited-holiday-marguerite-shuttle-service	PredictedValue: 1.0
+https://transportation.stanford.edu/marguerite/view-maps-and-schedules	PredictedValue: 1.0
+https://transportation.stanford.edu/marguerite/slac	PredictedValue: 1.0
+https://transportation.stanford.edu/marguerite/rp	PredictedValue: 1.0
+https://transportation.stanford.edu/marguerite	PredictedValue: 1.0
+https://transportation.stanford.edu/marguerite/view-maps-and-schedules/obtain-printed-map-and-schedule	PredictedValue: 0.999999980084
+https://transportation.stanford.edu/marguerite/va	PredictedValue: 0.9999954196
+https://porterdrivecampus.stanford.edu/neighborhood/transportation-porter-drive	PredictedValue: 0.943733799896
+https://transportation.stanford.edu/transit/express-bus/dumbarton-express	PredictedValue: 0.836607973118
+
+queryNo: 4	Query: stanford credits
+Ranking of URL:
+http://exploredegrees.stanford.edu/undergraduatedegreesandprograms/	PredictedValue: 0.992401945503
+https://summer.stanford.edu/faqs/category/curriculum/	PredictedValue: 0.905579500694
+https://www.gsb.stanford.edu/programs/mba/academic-experience/curriculum	PredictedValue: 0.753344081168
+http://exploredegrees.stanford.edu/undergraduatemajorunitreq/	PredictedValue: 0.743580415981
+https://registrar.stanford.edu/students/transfer-credit-and-advanced-placement/advanced-placement/ap-credit-chart	PredictedValue: 0.664864250775
+https://registrar.stanford.edu/students/transfer-credit/advanced-placement	PredictedValue: 0.647908629568
+https://summer.stanford.edu/academics/credit-evaluation/	PredictedValue: 0.645532852904
+https://undergrad.stanford.edu/advising/student-guides/can-i-get-credit-ap-ib-or-transfer-courses	PredictedValue: 0.619840663518
+https://registrar.stanford.edu/students/graduation/undergraduate-degree-requirements	PredictedValue: 0.609605308951
+https://biology.stanford.edu/academics/undergraduate-program/transfer-credit	PredictedValue: 0.594060407535
+
+queryNo: 5	Query: stanford dining hall meal plan
+Ranking of URL:
+https://rde.stanford.edu/dining/vegetarian-vegan-dining	PredictedValue: 1.0
+https://rde.stanford.edu/dining/my-meal-plan-account	PredictedValue: 1.0
+https://rde.stanford.edu/dining/mealplans	PredictedValue: 1.0
+https://rde.stanford.edu/dining/locations-hours	PredictedValue: 1.0
+https://rde.stanford.edu/dining/graduate-and-post-doc-meal-plans	PredictedValue: 1.0
+https://rde.stanford.edu/dining/dining-meal-delivery-service	PredictedValue: 1.0
+https://rde.stanford.edu/dining	PredictedValue: 1.0
+http://stanford.edu/dept/rde/cgi-bin/drupal/dining/sites/default/files/pdfs/RFRA_2013Guidebook_050714.pdf	PredictedValue: 1.0
+https://rde.stanford.edu/dining/halal-options	PredictedValue: 0.999999999999
+https://rde.stanford.edu/hospitality/cardinaldollarspecial	PredictedValue: 0.999999936512
+
+queryNo: 6	Query: how many meal plan dollars do i have left
+Ranking of URL:
+https://rde.stanford.edu/dining/undergraduate-meal-plans	PredictedValue: 1.0
+https://rde.stanford.edu/dining/mealplans	PredictedValue: 1.0
+https://rde.stanford.edu/dining/meal-plan-frequently-asked-questions	PredictedValue: 1.0
+https://alumni.stanford.edu/get/page/magazine/article/?article_id=74802	PredictedValue: 1.0
+https://alumni.stanford.edu/get/page/magazine/article/?article_id=72888	PredictedValue: 1.0
+http://stanford.edu/dept/rde/cgi-bin/drupal/dining/sites/default/files/pdfs/RFRA_2013Guidebook_050714.pdf	PredictedValue: 1.0
+http://gsc.stanford.edu/gsc-meeting-2008-11-05/	PredictedValue: 0.999999984401
+https://web.stanford.edu/group/axecomm/cgi-bin/wordpress/wp-content/uploads/2015/08/handbook.final_.pdf	PredictedValue: 0.996239122204
+https://statistics.stanford.edu/sites/default/files/Sandstone-and-Tile_Old-Roble.pdf	PredictedValue: 0.966113468508
+
+queryNo: 7	Query: dining for food
+Ranking of URL:
+https://rde.stanford.edu/dining/sustainable-food-program	PredictedValue: 1.0
+https://rde.stanford.edu/dining/news-and-awards	PredictedValue: 1.0
+https://rde.stanford.edu/dining/food-allergies	PredictedValue: 1.0
+https://rde.stanford.edu/dining/arrillaga-family-dining-commons	PredictedValue: 1.0
+http://web.stanford.edu/dept/rde/dining/pdfs/2010DiningTour_brochure.pdf	PredictedValue: 1.0
+https://sustainability-year-in-review.stanford.edu/2016/topics/food-housing/	PredictedValue: 1.0
+https://rde.stanford.edu/dining/food-facts	PredictedValue: 0.999999999732
+https://rde.stanford.edu/dining/food-safety-intern	PredictedValue: 0.999999998344
+https://rde.stanford.edu/dining/culinary-standards	PredictedValue: 0.999999963397
+https://rde.stanford.edu/dining/nutrition-week	PredictedValue: 0.999998834363
+
+queryNo: 8	Query: student discount
+Ranking of URL:
+http://web.stanford.edu/group/livelyarts/Web/0506/BBEDIT%20Files/discount	PredictedValue: 0.999998811061
+https://undergrad.stanford.edu/advising/approaching-stanford/moving-farm/stanford-student-discounts-local-shops	PredictedValue: 0.995583637526
+http://events.stanford.edu/events/103/10364/	PredictedValue: 0.984185272851
+https://vaden.stanford.edu/sites/default/files/copy_of_optical_discount_list.pdf	PredictedValue: 0.960753400384
+http://crypto.stanford.edu/~ninghui/talks/rt_oakland02_slides.pdf	PredictedValue: 0.955961655444
+http://web.stanford.edu/group/bookstore/faq.html	PredictedValue: 0.901979400721
+https://arts.stanford.edu/for-students/events-activities/	PredictedValue: 0.714114495949
+https://transportation.stanford.edu/maps-resources-access/sustainable-transportation/free-and-discounted-stanford-transportation-programs	PredictedValue: 0.582889392372
+
+queryNo: 9	Query: which cafe is open on weekends in stanford
+Ranking of URL:
+https://rde.stanford.edu/hospitality/cafe-arrillaga-alumni-center	PredictedValue: 1.0
+http://tusb.stanford.edu/2011/02/the-cool-cafe-beyond-the-gates-of-hell.html	PredictedValue: 0.999999999997
+http://visit.stanford.edu/activities/dining.html	PredictedValue: 0.999999999992
+https://rde.stanford.edu/hospitality/russo-caf%C3%A9	PredictedValue: 0.999999997194
+https://rde.stanford.edu/hospitality/SLACafe	PredictedValue: 0.999999942883
+https://arts.stanford.edu/event/cantor-is-open-presidents-day-weekend/	PredictedValue: 0.99746363109
+https://biox.stanford.edu/about/building-services/room-scheduling/clark-center-courtyard	PredictedValue: 0.826513016295
+https://rde.stanford.edu/hospitality/stanford-guest-house/dining	PredictedValue: 0.811368730305
+https://rde.stanford.edu/hospitality/union-square-tresidder-memorial	PredictedValue: 0.781851578953
+https://cardinalatwork.stanford.edu/benefits-rewards/sweeteners/great-places-eat-campus	PredictedValue: 0.778933334647
+
+queryNo: 10	Query: credit cost
+Ranking of URL:
+https://searchworks.stanford.edu/view/8276159	PredictedValue: 1.0
+https://www.gsb.stanford.edu/programs/mba/financial-aid/cost-summary	PredictedValue: 0.999999992057
+https://www.gsb.stanford.edu/programs/mba/financial-aid/international-students	PredictedValue: 0.973673234719
+http://exploredegrees.stanford.edu/tuitionfeesandhousing/	PredictedValue: 0.952677130665
+https://web.stanford.edu/dept/registrar/bulletin1112/4835.htm	PredictedValue: 0.739319333411
+https://summer.stanford.edu/programs/current/expenses-fees/	PredictedValue: 0.630301102877
+https://registrar.stanford.edu/students/tuition-and-fees/related-links-and-previous-years-tuition/tuition-and-fees-2014-15	PredictedValue: 0.570745724197
+https://registrar.stanford.edu/students/tuition-and-fees/related-links-and-previous-years-tuition/tuition-and-fees-2012-13	PredictedValue: 0.570745724197
+http://news.stanford.edu/news/2014/february/undergrad-tuition-up-021214.html	PredictedValue: 0.5393400153
+
+queryNo: 11	Query: magic the gathering
+Ranking of URL:
+https://plato.stanford.edu/entries/agrippa-nettesheim/	PredictedValue: 1.0
+http://cs229.stanford.edu/proj2016/report/Tuck-DevelopingARegressionAlgorithmForPredictingMagicTheGatheringCardEfficiencyInDraftFormat-report.pdf	PredictedValue: 0.999999997043
+https://se3.stanford.edu/news/magic-number-holding-warming-under-2-c-goal-it-may-already-be-too-late	PredictedValue: 0.999999992113
+http://cs229.stanford.edu/proj2012/HauPlotkinTran-MagicTheGatheringDeckPerformancePrediction.pdf	PredictedValue: 0.999999119518
+https://web.stanford.edu/group/sgs/Gametypes.html	PredictedValue: 0.988948357118
+http://cs229.stanford.edu/proj2015/187_poster.pdf	PredictedValue: 0.98559369511
+https://quizbowl.stanford.edu/archive/FraudBowl/swat2pak.html	PredictedValue: 0.914828627847
+http://cs229.stanford.edu/proj2016/poster/Tuck-DevelopingARegressionAlgorithmForPredictingMagicTheGatheringCardEfficiencyInDraftFormat-poster.pdf	PredictedValue: 0.895351114208
+http://cs229.stanford.edu/projects2015.html	PredictedValue: 0.717580144141
+http://vpuewh-public.stanford.edu/viewprofile.jsp?sunetid=lamdavid	PredictedValue: 0.639958253471
+
+queryNo: 12	Query: stanford aoerc pool hours
+Ranking of URL:
+http://web.stanford.edu/group/masters/pool.html	PredictedValue: 0.999999168294
+https://alumni.stanford.edu/get/page/perks/PoolAndGyms	PredictedValue: 0.971693250272
+http://events.stanford.edu/2014/February/6/	PredictedValue: 0.864150255149
+http://events.stanford.edu/2014/February/18/	PredictedValue: 0.851659431318
+http://events.stanford.edu/2014/March/13/	PredictedValue: 0.831298220494
+http://events.stanford.edu/2014/March/3/	PredictedValue: 0.825360090336
+https://glo.stanford.edu/events/stanford-rec-open-house	PredictedValue: 0.711928699177
+https://cardinalrec.stanford.edu/facilities/aoerc/	PredictedValue: 0.619108395375
+https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=PE+128%3A+Swimming%3A+Beginning+I&collapse=	PredictedValue: 0.59389966238
+http://med.stanford.edu/content/dam/sm/hip/documents/FreeFitnessWeek.pdf	PredictedValue: 0.575963558115
+
+queryNo: 13	Query: nlp group stanford
+Ranking of URL:
+http://nlp.stanford.edu/software/tagger.shtml	PredictedValue: 1.0
+http://nlp.stanford.edu/software/regexner.html	PredictedValue: 1.0
+http://nlp.stanford.edu/software/	PredictedValue: 1.0
+http://nlp.stanford.edu/read/	PredictedValue: 1.0
+http://nlp.stanford.edu/blog/in-their-own-words-the-2016-graduates-of-the-stanford-nlp-group/	PredictedValue: 1.0
+http://nlp.stanford.edu/	PredictedValue: 1.0
+http://nlp.stanford.edu/people/	PredictedValue: 1.0
+http://nlp.stanford.edu/projects/arabic.shtml	PredictedValue: 0.999999999988
+http://nlp.stanford.edu/projects/chinese-nlp.shtml	PredictedValue: 0.999999999679
+
+queryNo: 14	Query: memorial church
+Ranking of URL:
+https://religiouslife.stanford.edu/	PredictedValue: 1.0
+https://music.stanford.edu/venues/memorial-church/memorial-church-accessibility	PredictedValue: 1.0
+https://events.stanford.edu/events/617/61741	PredictedValue: 1.0
+http://web.stanford.edu/group/religiouslife/cgi-bin/wordpress/memorial-church/history/	PredictedValue: 1.0
+http://125.stanford.edu/then-and-now/memorial-church/	PredictedValue: 1.0
+https://live.stanford.edu/plan-your-visit/venues/memorial-church	PredictedValue: 1.0
+https://music.stanford.edu/performing-group/memorial-church-choir	PredictedValue: 0.999999999997
+http://web.stanford.edu/group/religiouslife/cgi-bin/wordpress/memorial-church/memorial-services/	PredictedValue: 0.999999999977
+http://web.stanford.edu/group/religiouslife/cgi-bin/wordpress/memorial-church/weddings/wedding-faqs/	PredictedValue: 0.999999999911
+http://web.stanford.edu/group/religiouslife/cgi-bin/wordpress/memorial-church/holiday-services/	PredictedValue: 0.999999996478
+
+queryNo: 15	Query: nobel laureates
+Ranking of URL:
+https://searchworks.stanford.edu/view/7203362	PredictedValue: 1.0
+https://searchworks.stanford.edu/view/4429962	PredictedValue: 1.0
+https://med.stanford.edu/news/all-news/2013/10/other-2013-nobel-laureates-in-physiology-or-medicine-have-strong-stanford-ties.html	PredictedValue: 1.0
+http://news.stanford.edu/nobel/	PredictedValue: 1.0
+https://www.gsb.stanford.edu/newsroom/school-news/scholes-business-schools-second-nobel-laureate	PredictedValue: 1.0
+https://physics.stanford.edu/node/19	PredictedValue: 0.999999999994
+https://ed.stanford.edu/news/nobel-laureate-appointed-stanford-professor-physics-and-education	PredictedValue: 0.999999999872
+https://ed.stanford.edu/in-the-media/nobel-laureates-education-plea-revolutionize-teaching	PredictedValue: 0.999999998733
+http://news.stanford.edu/2015/07/21/laureates-climate-change-072015/	PredictedValue: 0.999999998461
+http://facts.stanford.edu/academics/faculty	PredictedValue: 0.999999806242
+
+queryNo: 16	Query: computational linguistics research
+Ranking of URL:
+https://linguistics.stanford.edu/research/computational-linguistics	PredictedValue: 1.0
+https://linguistics.stanford.edu/	PredictedValue: 1.0
+https://linguistics.stanford.edu/people/graduate-students	PredictedValue: 0.99999967562
+https://linguistics.stanford.edu/research/sociolinguistics	PredictedValue: 0.99998996162
+http://lingo.stanford.edu/courses/05/ge/ftp/overview.pdf	PredictedValue: 0.99998834012
+https://linguistics.stanford.edu/research/syntax	PredictedValue: 0.996837885666
+http://web.stanford.edu/~jurafsky/	PredictedValue: 0.979219476428
+https://web.stanford.edu/~gdoyle/papers/doyle-2014-art-talk.pdf	PredictedValue: 0.971168011533
+http://nlp.stanford.edu/pubs/vogeljurafsky12.pdf	PredictedValue: 0.9613746918
+https://symsys.stanford.edu/viewing/htmldocument/22074	PredictedValue: 0.804503145647
+
+queryNo: 17	Query: address of stanford
+Ranking of URL:
+https://rde.stanford.edu/studenthousing/mail-deliveries	PredictedValue: 0.929734890322
+https://www.stanford.edu/contact/	PredictedValue: 0.927165247001
+http://admission.stanford.edu/contact/	PredictedValue: 0.901392814214
+http://visit.stanford.edu/basics/	PredictedValue: 0.88459491129
+https://www.gsb.stanford.edu/contact	PredictedValue: 0.877818988617
+https://rde.stanford.edu/studenthousing/governor%E2%80%99s-corner-%E2%80%93-sterling-quad	PredictedValue: 0.714753310651
+https://rde.stanford.edu/studenthousing/wilbur-hall	PredictedValue: 0.694360028824
+https://president.stanford.edu/contact/	PredictedValue: 0.612633657106
+
+queryNo: 18	Query: wilbur dinner
+Ranking of URL:
+https://rde.stanford.edu/dining/wilbur-dining	PredictedValue: 0.999999997859
+https://web.stanford.edu/dept/rde/dining/pdfs/RFRA_2010Guidebook.pdf	PredictedValue: 0.991670508253
+https://rde.stanford.edu/dining/dining-hall-hours	PredictedValue: 0.936257474181
+https://web.stanford.edu/dept/rde/cgi-bin/drupal/dining/sites/default/files/SD_winter_hours_2014_web.pdf	PredictedValue: 0.841018142508
+https://rde.stanford.edu/dining/undergraduate-meal-plans	PredictedValue: 0.76522164619
+https://rde.stanford.edu/dining/chef-inspired-seasonal-kitchen-table	PredictedValue: 0.728290007501
+http://unofficial.stanford.edu/?page_id=1683	PredictedValue: 0.698504117291
+https://web.stanford.edu/dept/rde/cgi-bin/drupal/rde/calendar/event/dining-halls-close-winter-break-0	PredictedValue: 0.666947302385
+http://visit.stanford.edu/activities/dining.html	PredictedValue: 0.624187636943
+http://web.stanford.edu/dept/rde/dining/facebooklanding.html	PredictedValue: 0.575551081794
+
+queryNo: 19	Query: cs master tuition
+Ranking of URL:
+https://web.stanford.edu/dept/registrar/bulletin1112/5254.htm	PredictedValue: 1.0
+https://web.stanford.edu/dept/registrar/bulletin1112/4835.htm	PredictedValue: 1.0
+http://exploredegrees.stanford.edu/tuitionfeesandhousing/	PredictedValue: 1.0
+http://med.stanford.edu/md/mdhandbook/section-7-tuition-and-financial-aid.html	PredictedValue: 0.999999999994
+https://www-cs.stanford.edu/academics/phd/phd-requirements	PredictedValue: 0.999989486331
+https://www.gsb.stanford.edu/programs/mba/financial-aid/cost-summary	PredictedValue: 0.965375259746
+https://gradadmissions.stanford.edu/admitted-students/financing-graduate-study/estimated-expense-budget	PredictedValue: 0.954009029981
+http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1240861	PredictedValue: 0.939165558106
+http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?certificateId=1226717&method=load	PredictedValue: 0.895499605708
+https://scpd.stanford.edu/portal/applications/applicationProfile.do?method=loadApplicationIndex&applicationProfileId=1285200	PredictedValue: 0.612055866736
+
+queryNo: 20	Query: arrillaga dining hours
+Ranking of URL:
+https://rde.stanford.edu/dining/locations-hours	PredictedValue: 1.0
+https://rde.stanford.edu/dining/graduate-and-postdoc-student-dining-faq	PredictedValue: 1.0
+https://rde.stanford.edu/dining/dining-hall-hours	PredictedValue: 1.0
+https://rde.stanford.edu/dining/dining-ambassadors-dining-intern-program	PredictedValue: 1.0
+https://rde.stanford.edu/dining/arrillaga-nights-intern	PredictedValue: 0.999999999999
+https://rde.stanford.edu/dining/events-calendar	PredictedValue: 0.999999999849
+https://rde.stanford.edu/dining/summer-2016	PredictedValue: 0.999999999191
+https://rde.stanford.edu/dining/thanksgiving-hours	PredictedValue: 0.999999884421
+https://rde.stanford.edu/dining/continuous-service	PredictedValue: 0.999999271473
+https://familyweekend.stanford.edu/residence-dining-hall-lunch-brunch	PredictedValue: 0.858601760907
+
+queryNo: 21	Query: hoover institute
+Ranking of URL:
+http://library.stanford.edu/libraries/hoover/about	PredictedValue: 1.0
+http://library.stanford.edu/libraries/hila/about	PredictedValue: 1.0
+http://news.stanford.edu/thedish/2015/09/21/media-roundtable-at-stanfords-hoover-institution-provides-opportunity-to-think-beyond-the-sound-bite/	PredictedValue: 1.0
+http://news.stanford.edu/2015/02/20/hoover-director-annouce-022015/	PredictedValue: 0.999999999548
+http://news.stanford.edu/thedish/2015/10/19/stanford-scholars-pen-books-on-financial-reform-sakharov/	PredictedValue: 0.999999998348
+http://news.stanford.edu/news/2011/august/iraq-hoover-archives-080111.html	PredictedValue: 0.999999998118
+http://hoohila.stanford.edu/friedman/index.php	PredictedValue: 0.9999985838
+http://news.stanford.edu/news/2007/november14/raisian-111407.html	PredictedValue: 0.999981272917
+http://news.stanford.edu/2016/01/14/golden-state-poll-011416/	PredictedValue: 0.845602544443
+https://www.gsb.stanford.edu/faculty-research/faculty/edward-lazear	PredictedValue: 0.792140618557
+
+queryNo: 22	Query: best cs classes to take
+Ranking of URL:
+https://web.stanford.edu/group/ughb/cgi-bin/handbook/index.php/Computer_Science_Program	PredictedValue: 1.0
+http://csmajor.stanford.edu/Considering.shtml	PredictedValue: 1.0
+https://cs.stanford.edu/academics/courses	PredictedValue: 0.999999999997
+http://csmajor.stanford.edu/Requirements.shtml	PredictedValue: 0.999999999969
+https://www-cs.stanford.edu/past-newsletters/2012	PredictedValue: 0.999999958924
+https://www-cs.stanford.edu/new-student-orientation/incoming-ms-students	PredictedValue: 0.994475459681
+https://www-cs.stanford.edu/academics/current-masters/faq	PredictedValue: 0.990039101195
+http://cs9.stanford.edu/	PredictedValue: 0.988787604678
+http://cs.stanford.edu/degrees/ug/SeniorProject.shtml	PredictedValue: 0.964704166984
+http://online.stanford.edu/course/computer-science-101-self-paced	PredictedValue: 0.562241232664
+
+queryNo: 23	Query: how to go to city center
+Ranking of URL:
+http://cancer.stanford.edu/information/cancerDiagnosis/	PredictedValue: 0.999993656071
+https://siw.stanford.edu/bsiw-program/student-life/preparing-go	PredictedValue: 0.995763275864
+http://med.stanford.edu/dermatology/contact/smoc_directions.html	PredictedValue: 0.990302639667
+https://transportation.stanford.edu/parking/about-parking-permits/campus-hospital-and-campus-worksites	PredictedValue: 0.989127142896
+http://web.stanford.edu/group/SBSE/register.html	PredictedValue: 0.958050397165
+https://transportation.stanford.edu/marguerite/	PredictedValue: 0.944199198092
+https://transportation.stanford.edu/transit/community-shuttles	PredictedValue: 0.923765196692
+https://transportation.stanford.edu/transit/bus-and-light-rail	PredictedValue: 0.909672200248
+http://visit.stanford.edu/basics/	PredictedValue: 0.630497766841
+http://visit.stanford.edu/plan/public_transit.html	PredictedValue: 0.583994184161
+
+queryNo: 24	Query: database courses
+Ranking of URL:
+https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about	PredictedValue: 0.999999999976
+http://infolab.stanford.edu/~ullman/fcdb/aut07/2006/lecture_notes/16a-database-courses.html	PredictedValue: 0.999999469613
+http://online.stanford.edu/course/databases-self-paced	PredictedValue: 0.968832838478
+http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1226719	PredictedValue: 0.936225632413
+https://class.stanford.edu/courses/Engineering/db/2014_1/about	PredictedValue: 0.90405400477
+http://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&q=ENGR+145	PredictedValue: 0.897462627803
+https://class.stanford.edu/courses/DB/RDB/SelfPaced/info	PredictedValue: 0.82824049182
+http://infolab.stanford.edu/~ullman/fcdbsols/sol2.html	PredictedValue: 0.766725373142
+http://cs.stanford.edu/people/widom/DB-mooc.html	PredictedValue: 0.743752053031
+
+queryNo: 25	Query: sports in stanford
+Ranking of URL:
+https://www.gsb.stanford.edu/insights/inside-sports-management	PredictedValue: 1.0
+http://sportsbusinessacademy.stanford.edu/	PredictedValue: 0.999999999985
+http://news.stanford.edu/news/multi/features/sports/fullstory.html	PredictedValue: 0.99999999991
+https://exploreintrosems.stanford.edu/frosh/ethics-sports	PredictedValue: 0.999999902476
+https://exploreintrosems.stanford.edu/sophomore/sport-exercise-and-health-exploring-sports-medicine	PredictedValue: 0.999999853162
+http://stanford.edu/group/stanfordflipside/cgi-bin/?cat=943	PredictedValue: 0.999985329922
+http://facts.stanford.edu/campuslife/athletics	PredictedValue: 0.990934985518
+http://facts.stanford.edu/campuslife/athletics	PredictedValue: 0.990934985518
+http://admission.stanford.edu/student/athletics/intercollegiate.html	PredictedValue: 0.970945278778
+https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=SOC+8%3A+Sport%2C+Competition%2C+and+Society&collapse=	PredictedValue: 0.66296671433
+
+queryNo: 26	Query: dining hours
+Ranking of URL:
+https://rde.stanford.edu/dining/ricker-dining	PredictedValue: 1.0
+https://rde.stanford.edu/dining/lakeside-dining	PredictedValue: 1.0
+https://rde.stanford.edu/dining/graduate-and-postdoc-student-dining-faq	PredictedValue: 1.0
+https://rde.stanford.edu/dining/food-allergies	PredictedValue: 1.0
+https://rde.stanford.edu/dining/dining-hall-hours	PredictedValue: 1.0
+https://rde.stanford.edu/dining/events-calendar	PredictedValue: 0.999999998787
+https://rde.stanford.edu/dining/late-nite-lakeside	PredictedValue: 0.999999997862
+https://rde.stanford.edu/dining/winter-hours-2017	PredictedValue: 0.999999884421
+https://rde.stanford.edu/dining/thanksgiving-hours-2015	PredictedValue: 0.999999884421
+https://rde.stanford.edu/hospitality/russo-caf%C3%A9	PredictedValue: 0.957606558766
+
+queryNo: 27	Query: dining meal plan refund
+Ranking of URL:
+https://web.stanford.edu/dept/rde/dining/pdfs/RFRA_2010Guidebook.pdf	PredictedValue: 1.0
+https://rde.stanford.edu/dining/meal-plan-frequently-asked-questions	PredictedValue: 1.0
+https://rde.stanford.edu/dining/graduate-gateway	PredictedValue: 1.0
+https://rde.stanford.edu/dining/graduate-and-post-doc-meal-plans	PredictedValue: 1.0
+http://stanford.edu/dept/rde/cgi-bin/drupal/dining/sites/default/files/pdfs/RFRA_2013Guidebook_050714.pdf	PredictedValue: 1.0
+https://web.stanford.edu/dept/registrar/bulletin0910/4860.htm	PredictedValue: 0.999999999997
+https://summercollege.stanford.edu/gateway/housing-dining	PredictedValue: 0.999999999941
+https://rde.stanford.edu/hospitality/cardinaldollarspecial	PredictedValue: 0.99999958869
+https://summercollege.stanford.edu/gateway/understanding-bill	PredictedValue: 0.983043367705
+https://summercollege.stanford.edu/gateway/tuition-payment	PredictedValue: 0.668935729918
+
+queryNo: 28	Query: how much does parking cost per day
+Ranking of URL:
+https://transportation.stanford.edu/visitor-parking-rates	PredictedValue: 1.0
+https://transportation.stanford.edu/parking/purchase-a-parking-permit/visitors	PredictedValue: 1.0
+https://transportation.stanford.edu/parking/purchase-a-parking-permit/permit-prices-2016-17	PredictedValue: 1.0
+https://transportation.stanford.edu/parking/find-event-parking	PredictedValue: 1.0
+https://transportation.stanford.edu/parking	PredictedValue: 1.0
+https://transportation.stanford.edu/parking/purchase-a-parking-permit/commuters/which-permit-right-you	PredictedValue: 0.999999999273
+http://web.stanford.edu/dept/news/news/2003/august6/park-86.html	PredictedValue: 0.999989638906
+https://transportation.stanford.edu/commute-club/enjoy-membership-rewards/carpool-credit	PredictedValue: 0.995974222369
+https://golfcourse.stanford.edu/fees_policies.htm	PredictedValue: 0.932478252856
+
+queryNo: 29	Query: lathrop library hours
+Ranking of URL:
+https://vptl.stanford.edu/student-resources/computers-printing/poster-printing-lathrop	PredictedValue: 1.0
+https://sul-library-hours-prod.stanford.edu/libraries/lathrop	PredictedValue: 1.0
+http://library.stanford.edu/libraries/lathrop/about	PredictedValue: 1.0
+http://gocanvas.stanford.edu/announcements/announcing-canvas-office-hours-for-faculty-and-teaching-staff/	PredictedValue: 1.0
+https://library.stanford.edu/libraries/lathrop/tech-lounge	PredictedValue: 0.999999999342
+https://library.stanford.edu/eal/east-asia-library-move-information	PredictedValue: 0.999999987435
+https://library.stanford.edu/libraries/lathrop/24-hour-study-room	PredictedValue: 0.991299807744
+http://maps.stanford.edu/ada/building-ada.cfm?FACIL_ID=08-350	PredictedValue: 0.984299397569
+https://library.stanford.edu/department/metadata-department/services/subject-expertise	PredictedValue: 0.965719301697
+https://library.stanford.edu/contacts/tech-desk	PredictedValue: 0.84035408294
+
+queryNo: 30	Query: hoover tower entrance price
+Ranking of URL:
+http://visit.stanford.edu/plan/guides/hoover.html	PredictedValue: 1.0
+https://lbre.stanford.edu/sites/default/files/parking_and_circulation_map_0.pdf	PredictedValue: 0.989538857037
+https://commencement.stanford.edu/system/files/documents/ebrochure2016final.pdf	PredictedValue: 0.979503172736
+https://alumni.stanford.edu/get/page/magazine/article/?article_id=34961	PredictedValue: 0.97489750703
+http://visit.stanford.edu/	PredictedValue: 0.744122824309
+https://cset.stanford.edu/pd/festival/activities	PredictedValue: 0.614694515228
+http://mcqmc2016.stanford.edu/registration.html	PredictedValue: 0.612688408426
+http://financialaid.stanford.edu/undergrad/	PredictedValue: 0.576010556556
+https://ed.stanford.edu/in-the-media/no-rich-child-left-behind	PredictedValue: 0.5393400153
+http://visit.stanford.edu/plan/parking.html	PredictedValue: 0.5393400153
+
+queryNo: 31	Query: president stanford
+Ranking of URL:
+https://president.stanford.edu/	PredictedValue: 1.0
+http://news.stanford.edu/features/2016/president-named/	PredictedValue: 1.0
+http://news.stanford.edu/2016/10/21/inauguration-president-marc-tessier-lavigne/	PredictedValue: 1.0
+https://alumni.stanford.edu/get/page/magazine/article/?article_id=83025	PredictedValue: 1.0
+http://news.stanford.edu/2016/06/21/stanford-president-elect-marc-tessier-lavigne-preparing-take-office-sept-1/	PredictedValue: 0.999999999954
+https://www.stanford.edu/presidentialsearch/	PredictedValue: 0.999986496348
+https://president.stanford.edu/contact/	PredictedValue: 0.959996616769
+https://www.stanford.edu/presidentialsearch/attributes.html	PredictedValue: 0.931209778424
+https://www.stanford.edu/presidentialsearch/committee.html	PredictedValue: 0.916340043169
+https://news.stanford.edu/features/2016/president-named/tessier-lavigne-cv.pdf	PredictedValue: 0.879802658707
+
+queryNo: 32	Query: stanford cs courses
+Ranking of URL:
+https://explorecourses.stanford.edu/	PredictedValue: 1.0
+https://cs.stanford.edu/academics/courses	PredictedValue: 1.0
+http://exploredegrees.stanford.edu/schoolofengineering/computerscience/	PredictedValue: 1.0
+https://web.stanford.edu/group/ughb/cgi-bin/handbook/index.php/Approved_Courses	PredictedValue: 0.999999995232
+http://cs221.stanford.edu/	PredictedValue: 0.999999990813
+http://cs.stanford.edu/courses/schedules/2014-2015.spring.php	PredictedValue: 0.983414998432
+http://cs.stanford.edu/courses/schedules/2015-2016.spring.php	PredictedValue: 0.981467335687
+https://www-cs.stanford.edu/academics/prospective-masters	PredictedValue: 0.967832550388
+https://see.stanford.edu/Course/CS106A	PredictedValue: 0.811766148925
+http://online.stanford.edu/course/computer-science-101-Summer-2014	PredictedValue: 0.650165282979
+
+queryNo: 33	Query: epidermolysis bullosa dermatology
+Ranking of URL:
+https://med.stanford.edu/profiles/joyce-teng	PredictedValue: 1.0
+http://stanmed.stanford.edu/2015summer/the-butterfly-effect.html	PredictedValue: 1.0
+http://med.stanford.edu/dermatology/resources/gsdc/eb_clinic/trials/eb-itch.html	PredictedValue: 1.0
+http://med.stanford.edu/dermatology/resources/gsdc/eb_clinic/trials.html	PredictedValue: 1.0
+http://med.stanford.edu/dermatology/resources/gsdc/eb_clinic/eb-physician-resources.html	PredictedValue: 1.0
+http://med.stanford.edu/dermatology/resources/gsdc/eb_clinic.html	PredictedValue: 1.0
+http://med.stanford.edu/dermatology.html	PredictedValue: 1.0
+https://cap.stanford.edu/profiles/frdActionServlet?choiceId=printerprofile&profileversion=full&profileId=4126	PredictedValue: 0.999999999998
+http://med.stanford.edu/content/dam/sm/dermatology/documents/gsdc/eb_clinic/eb-clinic-overview/EB%20Patient%20Information%20Form%2012_06.pdf	PredictedValue: 0.99999999992
+http://med.stanford.edu/news/all-news/2016/11/gene-therapy-for-blistering-skin-disease-appears-to-enhance-healing.html	PredictedValue: 0.994945533783
+
+queryNo: 34	Query: stanford wilbur front desk
+Ranking of URL:
+https://rde.stanford.edu/studenthousing/wilbur-hall-0	PredictedValue: 1.0
+https://rde.stanford.edu/studenthousing/munger-graduate-residence	PredictedValue: 1.0
+https://rde.stanford.edu/studenthousing/housing-front-desks	PredictedValue: 1.0
+https://rde.stanford.edu/studenthousing/frontdesk/governors-corner	PredictedValue: 0.999999999994
+https://rde.stanford.edu/studenthousing/lagunita-court-0	PredictedValue: 0.999999999985
+https://rde.stanford.edu/studenthousing/stern-hall	PredictedValue: 0.999999224662
+https://rde.stanford.edu/studenthousing/help	PredictedValue: 0.949386355138
+https://rde.stanford.edu/studenthousing/meet-staff	PredictedValue: 0.933673930335
+https://undergrad.stanford.edu/advising/approaching/approaching-stanford/moving-farm/getting-campus	PredictedValue: 0.859197563722
+https://resed.stanford.edu/residences/find-house/soto	PredictedValue: 0.833484083128
+
+queryNo: 35	Query: matlab ssh options
+Ranking of URL:
+https://web.stanford.edu/group/vista/cgi-bin/wiki/index.php/Matlab	PredictedValue: 1.0
+https://web.stanford.edu/group/farmshare/cgi-bin/wiki/index.php/Matlab-interactive	PredictedValue: 1.0
+http://sherlock.stanford.edu/mediawiki/index.php/Matlab	PredictedValue: 1.0
+http://sepwww.stanford.edu/doku.php?id=sep:software:matlab	PredictedValue: 1.0
+http://gru.stanford.edu/doku.php/shared/pysch202	PredictedValue: 0.999999999939
+https://web.stanford.edu/group/farmshare/cgi-bin/wiki/index.php/FarmShare_tutorial	PredictedValue: 0.999999997903
+https://confluence.slac.stanford.edu/display/ACCSOFT/MATLAB+at+LCLS+for+physicists+workshop	PredictedValue: 0.999999997067
+https://confluence.slac.stanford.edu/display/PCDS/Computing	PredictedValue: 0.9912594312
+https://mailman.stanford.edu/pipermail/farmshare-discuss/2012-December/000223.html	PredictedValue: 0.811886132445
+
+queryNo: 36	Query: career services
+Ranking of URL:
+https://www.gsb.stanford.edu/alumni/career-resources	PredictedValue: 1.0
+https://law.stanford.edu/office-of-career-services/	PredictedValue: 1.0
+https://beam.stanford.edu/about-us/meet-team/career-ventures	PredictedValue: 1.0
+https://beam.stanford.edu/	PredictedValue: 1.0
+http://med.stanford.edu/careercenter/	PredictedValue: 1.0
+http://news.stanford.edu/news/2013/july/career-services-director-070813.html	PredictedValue: 1.0
+https://law.stanford.edu/careers/	PredictedValue: 0.999999010895
+http://med.stanford.edu/careercenter/management/	PredictedValue: 0.999998672221
+http://med.stanford.edu/careercenter/management/negotiating.html	PredictedValue: 0.997435395956
+http://med.stanford.edu/careercenter/about/message_director.html	PredictedValue: 0.963155471721
+
+queryNo: 37	Query: mscs admission
+Ranking of URL:
+https://cs.stanford.edu/degrees/mscs/mscs_law.php	PredictedValue: 0.999999999785
+http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1240861	PredictedValue: 0.962088488193
+http://cs.stanford.edu/degrees/phd/coterm/Response%20to%20Offer%20of%20Admission%20Form.pdf	PredictedValue: 0.956895290531
+https://www-cs.stanford.edu/admissions	PredictedValue: 0.91424344441
+http://nlp.stanford.edu/~rkarthik/DAGAP.pdf	PredictedValue: 0.870313491283
+https://web.stanford.edu/dept/registrar/bulletin0809/5254.htm	PredictedValue: 0.773604842269
+http://xenon.stanford.edu/~sjac/su-application.html	PredictedValue: 0.76440249815
+https://www-cs.stanford.edu/admissions/ms-versus-phd	PredictedValue: 0.685583487745
+https://www-cs.stanford.edu/admissions/current-stanford-students/coterminal-program	PredictedValue: 0.567243941136
+https://www-cs.stanford.edu/admissions/checklist	PredictedValue: 0.5393400153
+
+queryNo: 38	Query: summer classes 2017
+Ranking of URL:
+https://summer.stanford.edu/	PredictedValue: 1.0
+http://summer.stanford.edu/email/2017-info/	PredictedValue: 1.0
+http://online.stanford.edu/courses	PredictedValue: 1.0
+http://med.stanford.edu/education/summer-outreach.html	PredictedValue: 1.0
+http://summer.stanford.edu/programs/domestic/how-to-apply/	PredictedValue: 0.999999999999
+https://summercollege.stanford.edu/	PredictedValue: 0.999999999994
+https://summer.stanford.edu/programs/international/international-requirements/	PredictedValue: 0.999999993824
+http://summer.stanford.edu/academics/courses/	PredictedValue: 0.999999951781
+https://law.stanford.edu/education/courses/stanford-law-class-schedule-grids/	PredictedValue: 0.989091191776
+
+queryNo: 39	Query: stanford campus alert
+Ranking of URL:
+https://helpsu.stanford.edu/	PredictedValue: 1.0
+http://emergency.stanford.edu/category/alertsu/	PredictedValue: 1.0
+http://emergency.stanford.edu/2016/01/community-alert-sexual-battery-11916/	PredictedValue: 1.0
+http://alertsu.stanford.edu/	PredictedValue: 0.999999999997
+http://stanfordcareers.stanford.edu/job-search/applicant-alert	PredictedValue: 0.99999183529
+https://police.stanford.edu/alertsu.html?alertid=36	PredictedValue: 0.994572528017
+https://ehs.stanford.edu/manual/emergency-response-guidelines/civil-disturbance	PredictedValue: 0.967610835441
+http://maps.stanford.edu/mark_utilities	PredictedValue: 0.962013557846
+http://emergency.stanford.edu/	PredictedValue: 0.913864386994
+https://police.stanford.edu/alertsu.html?alertid=52	PredictedValue: 0.829328361017
+
+queryNo: 40	Query: cssa
+Ranking of URL:
+https://web.stanford.edu/group/CSSA/	PredictedValue: 1.0
+https://web.stanford.edu/dept/astro/lists.html	PredictedValue: 0.722193663013
+http://soi.stanford.edu/science/proposals/024.linker/024.text	PredictedValue: 0.665843331417
+http://quake.stanford.edu/~sasha/PAPERS/drat_0501.pdf	PredictedValue: 0.665843331417
+https://web.stanford.edu/group/CSSA/faculty.html	PredictedValue: 0.605382890632
+http://www.stanford.edu/group/CSSA/links.html	PredictedValue: 0.605382890632
+http://today.slac.stanford.edu/a/2009/12-17.htm	PredictedValue: 0.605382890632
+http://kipac-web.stanford.edu/research/solarphysics	PredictedValue: 0.605382890632
+http://biomechanics.stanford.edu/Publications	PredictedValue: 0.605382890632
+http://acsss.stanford.edu/	PredictedValue: 0.5393400153
+
+queryNo: 41	Query: stanford dining holiday hours
+Ranking of URL:
+https://www.gsb.stanford.edu/visit/dining	PredictedValue: 1.0
+https://rde.stanford.edu/dining/locations-hours	PredictedValue: 1.0
+https://rde.stanford.edu/dining/events-calendar	PredictedValue: 0.999999999634
+https://rde.stanford.edu/dining/winter-hours-2017	PredictedValue: 0.999999957246
+https://rde.stanford.edu/dining/thanksgiving-hours-2015	PredictedValue: 0.999999957246
+https://dining.stanford.edu/dining-calendar-dates	PredictedValue: 0.995810127161
+https://web.stanford.edu/dept/rde/cgi-bin/drupal/rde/calendar/taxonomy/term/4	PredictedValue: 0.992921026191
+http://facultyclub.stanford.edu/Default.aspx?p=DynamicModule&pageid=339269&ssid=238704&vnf=1	PredictedValue: 0.990965027552
+https://web.stanford.edu/dept/rde/cgi-bin/drupal/rde/calendar/	PredictedValue: 0.899611128499
+http://news.stanford.edu/news/2006/december6/close-120606.html	PredictedValue: 0.878636590624
+
+queryNo: 42	Query: academic calendar
+Ranking of URL:
+https://registrar.stanford.edu/resources-and-help/stanford-academic-calendar/2015-16-stanford-academic-calendar	PredictedValue: 1.0
+https://registrar.stanford.edu/resources-and-help/stanford-academic-calendar	PredictedValue: 1.0
+https://law.stanford.edu/events/	PredictedValue: 1.0
+https://registrar.stanford.edu/resources-and-help/stanford-academic-calendar/previous-academic-calendars/2013-14-stanford-academic	PredictedValue: 0.999999999991
+https://registrar.stanford.edu/resources-and-help/stanford-academic-calendar/previous-academic-calendars/2012-13-stanford-academic	PredictedValue: 0.999999999991
+https://registrar.stanford.edu/resources-and-help/stanford-academic-calendar/previous-academic-calendars/2007-08-stanford-academic	PredictedValue: 0.999999999909
+https://registrar.stanford.edu/resources-and-help/stanford-academic-calendar-2016-17/future-academic-calendars	PredictedValue: 0.999999999819
+https://www.gsb.stanford.edu/programs/mba/academic-experience/academic-calendar	PredictedValue: 0.999999992951
+http://exploredegrees.stanford.edu/academiccalendar/academiccalendar.pdf	PredictedValue: 0.989851470277
+
+queryNo: 43	Query: financial aid office
+Ranking of URL:
+https://www.gsb.stanford.edu/programs/mba/financial-aid	PredictedValue: 1.0
+https://mse.stanford.edu/admissions/financial-aid	PredictedValue: 1.0
+https://law.stanford.edu/apply/tuition-financial-aid/jd-financial-support/	PredictedValue: 1.0
+http://financialaid.stanford.edu/grad/budget/	PredictedValue: 1.0
+http://financialaid.stanford.edu/contact/	PredictedValue: 1.0
+http://financialaid.stanford.edu/	PredictedValue: 1.0
+http://financialaid.stanford.edu/undergrad/apply/summer.html	PredictedValue: 0.999999995914
+http://financialaid.stanford.edu/grad/policy/progress.html	PredictedValue: 0.999999995591
+http://financialaid.stanford.edu/loans/	PredictedValue: 0.999999919763
+http://financialaid.stanford.edu/aid/tax_info/	PredictedValue: 0.992652031196
+
+queryNo: 44	Query: 24 hour study rooms
+Ranking of URL:
+http://library.stanford.edu/using/study	PredictedValue: 1.0
+https://library.stanford.edu/libraries/lathrop/24-hour-study-room	PredictedValue: 1.0
+https://library.stanford.edu/taxonomy/term/35	PredictedValue: 0.999999988134
+http://maps.stanford.edu/ada/building-ada.cfm?FACIL_ID=08-350	PredictedValue: 0.704565912361
+https://library-hours.stanford.edu/?week=2019W24	PredictedValue: 0.632107294672
+http://news.stanford.edu/2015/11/20/meyer-green-space-112015/	PredictedValue: 0.632107294672
+http://library.stanford.edu/hours	PredictedValue: 0.632107294672
+
+queryNo: 45	Query: stanford tuition tax form
+Ranking of URL:
+https://web.stanford.edu/group/fms/fingate/staff/taxcompliance/tax_concern.html	PredictedValue: 1.0
+https://sfs.stanford.edu/taxes	PredictedValue: 1.0
+https://bechtel.stanford.edu/practical-matters/taxes/general-tax-information	PredictedValue: 1.0
+http://financialaid.stanford.edu/aid/tax_info/	PredictedValue: 0.999999999915
+http://postdocs.stanford.edu/handbook/taxes.html	PredictedValue: 0.999999998527
+https://sfs.stanford.edu/taxes/resources	PredictedValue: 0.999999981848
+https://gap.stanford.edu/handbooks/gap-handbook/chapter-7/subchapter-3/page-7-3-1	PredictedValue: 0.999999968427
+http://summer.stanford.edu/faqs/category/university-billing-and-payment/	PredictedValue: 0.996607909005
+https://continuingstudies.stanford.edu/registration-policies/admissions	PredictedValue: 0.961642575262
+https://web.stanford.edu/group/fms/fingate/staff/supptstudents/res_jobaid.html	PredictedValue: 0.823031649579
+
+queryNo: 46	Query: cs276 slides
+Ranking of URL:
+http://cs276.stanford.edu/	PredictedValue: 1.0
+http://web.stanford.edu/class/cs276/handouts/	PredictedValue: 0.999999920717
+http://www-cs-students.stanford.edu/~dalewis/classificoogle.pdf	PredictedValue: 0.999994907059
+http://web.stanford.edu/class/cs276/handouts/lecture14-SVMs.ppt	PredictedValue: 0.982585550796
+https://web.stanford.edu/class/cs276/handouts/lecture8-evaluation.ppt	PredictedValue: 0.979929400855
+https://web.stanford.edu/class/cs276/handouts/lecture6-tfidf.ppt	PredictedValue: 0.979929400855
+https://web.stanford.edu/class/cs276/handouts/lecture12-textcat.ppt	PredictedValue: 0.979929400855
+https://web.stanford.edu/class/cs276/handouts/lecture1-intro-handout-1-per.pdf	PredictedValue: 0.972918041978
+http://nlp.stanford.edu/IR-book/newslides.html	PredictedValue: 0.969794179065
+http://nlp.stanford.edu/IR-book/	PredictedValue: 0.611245128276
+
+queryNo: 47	Query: stanford housing cost
+Ranking of URL:
+https://rde.stanford.edu/studenthousing/summer-rates-single-undergraduates	PredictedValue: 1.0
+https://rde.stanford.edu/studenthousing/rates-billing	PredictedValue: 1.0
+https://rde.stanford.edu/studenthousing/rates-billing	PredictedValue: 1.0
+https://rde.stanford.edu/studenthousing	PredictedValue: 1.0
+http://exploredegrees.stanford.edu/tuitionfeesandhousing/	PredictedValue: 1.0
+https://rde.stanford.edu/studenthousing/incoming-undergraduate-summer-visitors-housing-rates	PredictedValue: 1.0
+https://rde.stanford.edu/studenthousing/single-graduate-housing	PredictedValue: 1.0
+https://www.gsb.stanford.edu/programs/mba/financial-aid/cost-summary	PredictedValue: 0.999999996683
+https://rde.stanford.edu/dining/undergraduate-meal-plans	PredictedValue: 0.893756702623
+https://rde.stanford.edu/dining/mealplans	PredictedValue: 0.827014595657
+
+queryNo: 48	Query: meal plan cost
+Ranking of URL:
+https://rde.stanford.edu/dining/undergraduate-meal-plans	PredictedValue: 1.0
+https://rde.stanford.edu/dining/undergraduate-meal-plans	PredictedValue: 1.0
+http://stanford.edu/dept/rde/cgi-bin/drupal/dining/sites/default/files/pdfs/RFRA_2013Guidebook_050714.pdf	PredictedValue: 1.0
+http://web.stanford.edu/dept/rde/dining/pdfs/2011DiningTour_brochure_12.8.pdf	PredictedValue: 0.999999999998
+https://web.stanford.edu/dept/registrar/bulletin0809/4848.htm	PredictedValue: 0.999999999998
+http://exploredegrees.stanford.edu/tuitionfeesandhousing/	PredictedValue: 0.9999999997
+https://summer.stanford.edu/programs/international/housing-dining/	PredictedValue: 0.993915527248
+https://rde.stanford.edu/dining/wilbur-dining	PredictedValue: 0.984674594686
+https://summercollege.stanford.edu/gateway/understanding-bill	PredictedValue: 0.97543370335
+https://summercollege.stanford.edu/gateway/housing-dining	PredictedValue: 0.686434656574
+
+queryNo: 49	Query: vaden hours
+Ranking of URL:
+https://vaden.stanford.edu/about/hours	PredictedValue: 1.0
+https://vaden.stanford.edu/caps-and-wellness/assisting-students-distress	PredictedValue: 0.999999999643
+https://vaden.stanford.edu/make-appointment/medical-services	PredictedValue: 0.99999973574
+https://vaden.stanford.edu/health-resources/mental-health	PredictedValue: 0.999999615448
+https://vaden.stanford.edu/pharmacy	PredictedValue: 0.999996380052
+https://vaden.stanford.edu/make-appointment/medical-services/testing-unintended-drug-ingestion	PredictedValue: 0.999990344891
+https://vaden.stanford.edu/sites/default/files/vaden-unintended-drug-testing-flier-100114-final-high.pdf	PredictedValue: 0.999989201426
+https://vaden.stanford.edu/get-help-now/immediate-medical-help	PredictedValue: 0.993826593354
+https://vaden.stanford.edu/make-appointment/medical-services/lab-and-x-ray-services	PredictedValue: 0.991837610524
+https://vaden.stanford.edu/people/pharmacy	PredictedValue: 0.988398561702
+
+queryNo: 50	Query: pizza delivery
+Ranking of URL:
+http://ldt.stanford.edu/~ischiefe/pizzaioli/solution.html	PredictedValue: 0.937576546872
+https://vue.slac.stanford.edu/dining-options	PredictedValue: 0.902827189013
+https://cs.stanford.edu/people/eroberts/cs181/projects/1997-98/changing-nature-of-work/indiv.html	PredictedValue: 0.849697511527
+http://visit.stanford.edu/activities/dining.html	PredictedValue: 0.756603406951
+https://userportal.slac.stanford.edu/userportal1/food-options	PredictedValue: 0.740870161826
+https://rde.stanford.edu/studenthousing/building-access	PredictedValue: 0.680228395321
+https://tomprof.stanford.edu/posting/396	PredictedValue: 0.670413860583
+http://sarvodaya.stanford.edu/2008_02_01_archive.html	PredictedValue: 0.670413860583
+
+queryNo: 51	Query: caltrain go pass program
+Ranking of URL:
+https://transportation.stanford.edu/transit/free-transit-incentives/caltrain-go-pass/about-go-pass	PredictedValue: 1.0
+https://transportation.stanford.edu/transit/free-transit-incentives/caltrain-go-pass	PredictedValue: 1.0
+https://transportation.stanford.edu/transit/free-transit-and-incentives	PredictedValue: 1.0
+https://transportation-forms.stanford.edu/pilotgopass/	PredictedValue: 1.0
+https://transportation-forms.stanford.edu/pilotgopass/gopass-pilot-eligibility.php	PredictedValue: 0.999996119316
+http://gsc.stanford.edu/?tag=minutes&m=200703	PredictedValue: 0.995999099098
+https://pmplus.stanford.edu/pats/transportation/gopass-status/	PredictedValue: 0.995643610527
+https://sustainability-year-in-review.stanford.edu/2016/topics/communications-outreach/	PredictedValue: 0.994166125357
+http://postdocs.stanford.edu/	PredictedValue: 0.949611622014
+http://news.stanford.edu/news/2006/july26/commute-072606.html	PredictedValue: 0.904512561213
+
+queryNo: 52	Query: summer courses
+Ranking of URL:
+https://summer.stanford.edu/	PredictedValue: 1.0
+http://summer.stanford.edu/academics/intensive-studies/global-perspectives/	PredictedValue: 1.0
+http://summer.stanford.edu/academics/courses/	PredictedValue: 1.0
+https://summercollege.stanford.edu/	PredictedValue: 0.999999999998
+https://ohs.stanford.edu/student-life/summer-stanford	PredictedValue: 0.999999999985
+https://undergrad.stanford.edu/programs/pwr/courses/summer-courses	PredictedValue: 0.999999997617
+https://summercollege.stanford.edu/about/why-stanford-high-school-summer-college	PredictedValue: 0.999999914741
+https://summer.stanford.edu/campus-life/regulations-requirements/	PredictedValue: 0.99999832442
+https://summerinstitutes.stanford.edu/courses	PredictedValue: 0.999991852743
+
+queryNo: 53	Query: 24 hour study room
+Ranking of URL:
+https://library.stanford.edu/libraries/lathrop/24-hour-study-room	PredictedValue: 1.0
+http://library.stanford.edu/using/study	PredictedValue: 1.0
+https://sul-library-hours-prod.stanford.edu/libraries/lathrop/locations/24-hour-study-room	PredictedValue: 1.0
+https://library.stanford.edu/taxonomy/term/35	PredictedValue: 0.999999999537
+http://news.stanford.edu/2014/04/24/walking-vs-sitting-042414/	PredictedValue: 0.999999881323
+https://law.stanford.edu/office-of-student-affairs/frequently-asked-questions/	PredictedValue: 0.7551450831
+http://maps.stanford.edu/ada/building-ada.cfm?FACIL_ID=08-350	PredictedValue: 0.675188985811
+http://news.stanford.edu/news/2006/november29/meyer-112906.html	PredictedValue: 0.64801519245
+http://news.stanford.edu/2015/11/20/meyer-green-space-112015/	PredictedValue: 0.646788561144
+http://library.stanford.edu/news/2017/01/lathrop-cupboard-cafe-opens-january-9th	PredictedValue: 0.645866034769
+
+queryNo: 54	Query: are dogs allowed on campus
+Ranking of URL:
+http://alumni.stanford.edu/get/page/magazine/article/?article_id=43987	PredictedValue: 1.0
+http://shc.stanford.edu/fellowships/resources-for-fellows	PredictedValue: 0.999996627428
+http://visit.stanford.edu/	PredictedValue: 0.999993606517
+https://rde.stanford.edu/studenthousing/housing-options	PredictedValue: 0.999983826299
+https://rde.stanford.edu/studenthousing/apartments-accept-pets	PredictedValue: 0.98976293614
+https://rde.stanford.edu/studenthousing	PredictedValue: 0.802400755512
+https://rde.stanford.edu/studenthousing/oak-creek-apartments	PredictedValue: 0.790937857263
+https://undergrad.stanford.edu/advising/student-guides/guidelines-packing	PredictedValue: 0.741914042029
+http://dramacal.stanford.edu/webevent/PDF/pets%20at%20work.pdf	PredictedValue: 0.661247839305
+http://events.stanford.edu/events/625/62575/	PredictedValue: 0.638620771228
+
+queryNo: 55	Query: helpsu ticket request
+Ranking of URL:
+https://helpsu.stanford.edu/helpsu/3.0/helpsu-form?portal=RDE	PredictedValue: 1.0
+https://helpsu.stanford.edu/helpsu/3.0/helpsu-form	PredictedValue: 1.0
+https://helpsu.stanford.edu/	PredictedValue: 1.0
+http://web.stanford.edu/services/helpsu/news.html	PredictedValue: 0.99999999955
+http://web.stanford.edu/dept/its/cgi-bin/services/helpsu/queue/	PredictedValue: 0.999999996734
+https://uit.stanford.edu/service/remedy	PredictedValue: 0.999999993436
+http://web.stanford.edu/dept/its/cgi-bin/services/helpsu/queue/gsb-queue.cgi	PredictedValue: 0.994117515808
+http://ispace.stanford.edu/helpsu.html	PredictedValue: 0.988176590238
+http://fingate.stanford.edu/staff/payadmin/cust_service_std.html	PredictedValue: 0.930640707382
+https://stutech-help.stanford.edu/hc/en-us/articles/207412183-How-do-I-get-connected-to-the-network-	PredictedValue: 0.871264852635
+
+queryNo: 56	Query: piazza registration without stanford email
+Ranking of URL:
+http://snap.stanford.edu/class/cs224w-2013/faq.html	PredictedValue: 0.972140887733
+http://alumni.stanford.edu/content/travel-study/brochures/2017/italy_2017_06.pdf	PredictedValue: 0.955835669793
+http://snap.stanford.edu/class/cs246-2014/faq.html	PredictedValue: 0.954461298468
+http://web.stanford.edu/class/cs246/faq.html	PredictedValue: 0.948985988409
+https://alumni.stanford.edu/get/page/travel-study/trip/?ciid=23987	PredictedValue: 0.925831631824
+https://web.stanford.edu/class/me328/syllabus.pdf	PredictedValue: 0.91553926498
+http://web.stanford.edu/~rjohari/teaching/syllabus/221_syllabus_2016.pdf	PredictedValue: 0.847270593524
+http://cs228.stanford.edu/	PredictedValue: 0.838690280171
+https://web.stanford.edu/class/stats202/scpd.html	PredictedValue: 0.744541464162
+https://lagunita.stanford.edu/courses/StanfordOnline/OpenEdX/Demo/courseware/8c8d6d5d907047db917640a192ff1251/6eda8cc681124a1a8184bdcbf170687f/	PredictedValue: 0.657679302282
+
+queryNo: 57	Query: campus police incidents
+Ranking of URL:
+https://police.stanford.edu/	PredictedValue: 1.0
+http://emergency.stanford.edu/category/alertsu/	PredictedValue: 1.0
+https://police.stanford.edu/security-report.html	PredictedValue: 1.0
+http://emergency.stanford.edu/category/alertsu/info/	PredictedValue: 0.999999999984
+http://emergency.stanford.edu/2015/10/police-activity-101715-655-pm/	PredictedValue: 0.999999999965
+http://news.stanford.edu/news/2012/august/campus-police-episode-080312.html	PredictedValue: 0.999999997659
+http://news.stanford.edu/news/2008/october1/crime-100108.html	PredictedValue: 0.99999998223
+https://police.stanford.edu/pdf/Stanford_CrimeStats2013-2015.pdf	PredictedValue: 0.999999600996
+https://web.stanford.edu/dept/news/pr/02/batterysuspect612.html	PredictedValue: 0.99999919161
+http://news.stanford.edu/2016/09/30/safety-security-fire-report/	PredictedValue: 0.999996684507
+
+queryNo: 58	Query: how many nobel prizes
+Ranking of URL:
+http://www.slac.stanford.edu/history/nobel.shtml	PredictedValue: 1.0
+http://news.stanford.edu/nobel/	PredictedValue: 1.0
+http://med.stanford.edu/sudhoflab/news/sudhof-nobel.html	PredictedValue: 1.0
+http://slac50.slac.stanford.edu/nobel-winners.asp	PredictedValue: 1.0
+http://news.stanford.edu/news/2006/october4/nobel-100206.html	PredictedValue: 0.999999999999
+https://www6.slac.stanford.edu/news/2012-10-12-synchrotron-nobel.aspx	PredictedValue: 0.999999999999
+https://ed.stanford.edu/news/nobel-laureate-appointed-stanford-professor-physics-and-education	PredictedValue: 0.999999999929
+https://www6.slac.stanford.edu/news/2015-10-06-symmetry-nobel-prize-awarded-discovery-neutrino-oscillations.aspx	PredictedValue: 0.994539557811
+http://med.stanford.edu/news/all-news/2012/10/dukes-coverage-of-robert-lefkowitz.html	PredictedValue: 0.989352130722
+http://facts.stanford.edu/academics/faculty	PredictedValue: 0.97539617723
+
+queryNo: 59	Query: artificial intelligence research
+Ranking of URL:
+https://www-cs.stanford.edu/research/ai	PredictedValue: 1.0
+https://web.stanford.edu/group/SHR/4-2/text/wilson.html	PredictedValue: 1.0
+https://ai100.stanford.edu/sites/default/files/ai_100_report_0831fnl.pdf	PredictedValue: 1.0
+http://ai.stanford.edu/~nilsson/OnlinePubs-Nils/General%20Essays/AIMag26-04-HLAI.pdf	PredictedValue: 1.0
+http://ai.stanford.edu/	PredictedValue: 1.0
+https://web.stanford.edu/class/cs294a/	PredictedValue: 0.999999991063
+https://www-cs.stanford.edu/research	PredictedValue: 0.999999078737
+http://news.stanford.edu/2015/09/04/toyota-stanford-center-090415/	PredictedValue: 0.991979483534
+https://ai100.stanford.edu/people	PredictedValue: 0.975314961464
+https://people.stanford.edu/seglash/	PredictedValue: 0.943317416285
+
+queryNo: 60	Query: stanford history major requirements
+Ranking of URL:
+http://exploredegrees.stanford.edu/schoolofhumanitiesandsciences/history/	PredictedValue: 1.0
+http://exploredegrees.stanford.edu/schoolofhumanitiesandsciences/artandarthistory/	PredictedValue: 1.0
+https://web.stanford.edu/dept/registrar/bulletin0809/7063.htm	PredictedValue: 0.99999999999
+https://history.stanford.edu/courses	PredictedValue: 0.999999997762
+https://history.stanford.edu/people/faculty	PredictedValue: 0.999999950442
+https://history.stanford.edu/academics/undergraduate-program	PredictedValue: 0.999999425743
+https://majors.stanford.edu/	PredictedValue: 0.99677418277
+https://history.stanford.edu/people/robert-crews	PredictedValue: 0.984619237965
+https://classics.stanford.edu/academics/undergraduate-program	PredictedValue: 0.862877719248
+https://history.stanford.edu/academics/graduate-programs/phd-handbook	PredictedValue: 0.856271461356
+
+queryNo: 61	Query: football schedule
+Ranking of URL:
+http://tusb.stanford.edu/tag/stanford-football	PredictedValue: 1.0
+http://pgnet.stanford.edu/home/rta/click?rtaCode=8205&rtaTcode=987473&rtaTarget=http://www.gostanford.com/sports/2015/1/25/208602060.aspx%3Futm_source%3DSAA%26utm_medium%3DHomepage%26utm_campaign%3D%26utm_content%3D	PredictedValue: 0.999999975994
+http://news.stanford.edu/news/2009/june3/discount-060309.html	PredictedValue: 0.99999978409
+http://kzsu.stanford.edu/prosched/	PredictedValue: 0.993437126552
+https://www.stanford.edu/group/axecomm/cgi-bin/wordpress/?page_id=59	PredictedValue: 0.947147263973
+http://www.stanford.edu/group/axecomm/cgi-bin/wordpress/?page_id=371	PredictedValue: 0.947147263973
+https://web.stanford.edu/group/ttsclasses/cgi-bin/techietips/?cat=141	PredictedValue: 0.825714050556
+
+queryNo: 62	Query: chemistry
+Ranking of URL:
+https://chemistry.stanford.edu/people/faculty	PredictedValue: 1.0
+https://chemistry.stanford.edu/	PredictedValue: 1.0
+https://chemistry.stanford.edu/events/department-seminars	PredictedValue: 0.999999999993
+https://www6.slac.stanford.edu/research/materials-chemistry-and-energy	PredictedValue: 0.999999999989
+https://undergrad.stanford.edu/advising/student-guides/chemistry-life-sciences-majors-and-pre-meds	PredictedValue: 0.999999998309
+https://chemistry.stanford.edu/news	PredictedValue: 0.99999999566
+https://cset.stanford.edu/pd/chem-ex-2	PredictedValue: 0.999999982287
+https://cheme.stanford.edu/research/chemistry-environment	PredictedValue: 0.999999956125
+https://chemistry.stanford.edu/people/emeriti-faculty	PredictedValue: 0.99458437788
+https://chemistry.stanford.edu/about/overview	PredictedValue: 0.993155223815
+
+queryNo: 63	Query: meal plan dollars
+Ranking of URL:
+https://web.stanford.edu/dept/rde/dining/pdfs/RFRA_2010Guidebook.pdf	PredictedValue: 1.0
+https://rde.stanford.edu/dining/mealplans	PredictedValue: 1.0
+https://rde.stanford.edu/dining/meal-plan-frequently-asked-questions	PredictedValue: 1.0
+https://rde.stanford.edu/dining/my-meal-plan-account	PredictedValue: 0.99999999992
+https://web.stanford.edu/dept/registrar/bulletin1011/4848.htm	PredictedValue: 0.999999999654
+https://rde.stanford.edu/dining/undergraduate-gateway	PredictedValue: 0.997256246789
+http://pulsemagazine.stanford.edu/dining-hall/	PredictedValue: 0.936842678289
+https://uit.stanford.edu/service/campuscard/services	PredictedValue: 0.92158616161
+https://web.stanford.edu/dept/rde/dining/pdfs/StanfordDining_hours2011-12.pdf	PredictedValue: 0.91109902628
+https://undergrad.stanford.edu/advising/student-guides/rde-student-dining	PredictedValue: 0.5393400153
+
+queryNo: 64	Query: memorial court
+Ranking of URL:
+https://web.stanford.edu/dept/Events/policies/quad.html	PredictedValue: 1.0
+http://news.stanford.edu/thedish/2015/05/31/burghers-cant-get-cell-coverage-in-memorial-court/	PredictedValue: 1.0
+http://125.stanford.edu/then-and-now/memorial-court/	PredictedValue: 1.0
+http://insight.stanford.edu/luna/servlet/view/all/who/Canfield%20Purchase/what/Stanford%20family%20statue?os=0&pgs=50	PredictedValue: 0.999999948571
+https://cardinalatwork.stanford.edu/events/maternity-child-care-benefits-seminar-11	PredictedValue: 0.995475322976
+http://news.stanford.edu/thedish/2014/11/11/stanfords-annual-tribute-to-veterans/	PredictedValue: 0.970635766529
+http://news.stanford.edu/news/2010/november/veterans-day-commemorate-111110.html	PredictedValue: 0.86674313067
+http://maps.stanford.edu/ada/building-ada.cfm?FACIL_ID=01-090	PredictedValue: 0.664459376866
+
+queryNo: 65	Query: old union reserve room
+Ranking of URL:
+https://studentaffairs.stanford.edu/room-reservations/tresidder-room-reservations	PredictedValue: 1.0
+https://studentaffairs.stanford.edu/room-reservations/old-union-room-reservations	PredictedValue: 1.0
+http://assu.stanford.edu/oldunion/	PredictedValue: 1.0
+https://studentaffairs.stanford.edu/room-reservations	PredictedValue: 1.0
+https://sal.stanford.edu/plan-event/find-venue/performance-and-large-spaces/old-union-clubhouse-ballroom	PredictedValue: 0.999999999756
+https://rde.stanford.edu/hospitality/axe-palm	PredictedValue: 0.999999966539
+http://dramacal.stanford.edu/webevent/PDF/Nitery%20Use%20Policy.pdf	PredictedValue: 0.897573186621
+https://sal.stanford.edu/plan-event/event-registration	PredictedValue: 0.879420679618
+https://sal.stanford.edu/plan-event/find-venue/choosing-event-space-cardinalsync	PredictedValue: 0.72147234267
+https://resed.stanford.edu/life-residences/about-events-residence/planning-events	PredictedValue: 0.681830471357
+
+queryNo: 66	Query: stanford judo
+Ranking of URL:
+http://web.stanford.edu/group/judo/	PredictedValue: 1.0
+https://searchworks.stanford.edu/view/1541451	PredictedValue: 0.999999999978
+https://web.stanford.edu/group/judo/calendar.html	PredictedValue: 0.999999293587
+https://web.stanford.edu/group/judo/class.html	PredictedValue: 0.999997983219
+https://web.stanford.edu/group/jujitsu/Zen_Budokai/biographies.html	PredictedValue: 0.965087747608
+https://arts.stanford.edu/event/65865/	PredictedValue: 0.936717955917
+https://web.stanford.edu/group/jujitsu/Class_Information/history.html	PredictedValue: 0.855424888842
+https://web.stanford.edu/dept/pe/cgi-bin/downloads/facility/ScheduleStudio.pdf	PredictedValue: 0.837899457375
+http://stanford.edu/group/jujitsu/documents/judging%20guidelines%20-%20rev%201.pdf	PredictedValue: 0.819032854822
+
+queryNo: 67	Query: bruno
+Ranking of URL:
+https://plato.stanford.edu/entries/bauer/	PredictedValue: 1.0
+https://music.stanford.edu/people/bruno-tucunduva-ruviaro	PredictedValue: 0.999999999999
+https://searchworks.stanford.edu/view/1603097	PredictedValue: 0.999999938966
+https://searchworks.stanford.edu/view/3495432	PredictedValue: 0.999998681406
+https://ccrma.stanford.edu/people/bruno-tucunduva-ruviaro	PredictedValue: 0.999990187826
+https://web.stanford.edu/~abrahao/	PredictedValue: 0.99440001543
+https://ccrma.stanford.edu/~ruviaro/texts/Ruviaro_2005_Kindertotenlieder.pdf	PredictedValue: 0.893953586106
+http://solar-center.stanford.edu/FAQ/Qsunasstar.html	PredictedValue: 0.738923013108
+http://fsi-web1.stanford.edu/sites/default/files/Bruno_and_Ewing_Elements_2006.pdf	PredictedValue: 0.738923013108
+
+queryNo: 68	Query: stanford courtesy card application
+Ranking of URL:
+https://uit.stanford.edu/campuscard/courtesycard	PredictedValue: 1.0
+https://library.stanford.edu/using/access-and-privileges/campus-id-card-holders/courtesy	PredictedValue: 0.999999999896
+https://library.stanford.edu/using/access-and-privileges/campus-id-card-holders	PredictedValue: 0.999999119803
+https://cardinalatwork.stanford.edu/benefits-rewards/sweeteners/courtesy-recreation-id-cards	PredictedValue: 0.999998774778
+https://uit.stanford.edu/sites/default/files/2010/02/19/StanfordCardOfficeWebsiteChart_0.pdf	PredictedValue: 0.99999634017
+https://library.stanford.edu/using/access-and-privileges/cards-access-borrowing	PredictedValue: 0.965377411411
+https://ev.stanford.edu/partners	PredictedValue: 0.942509993181
+http://med.stanford.edu/content/dam/sm/academicaffairs/documents/newfaculty/orientation/university/Univ_NFO_Top_Ten.pdf	PredictedValue: 0.885973770532
+https://web.stanford.edu/dept/as/mais/applications/stanfordwho/	PredictedValue: 0.817559899827
+https://continuingstudies.stanford.edu/policies/university-information	PredictedValue: 0.78696921067
+
+queryNo: 69	Query: tresidder union hours
+Ranking of URL:
+https://rde.stanford.edu/hospitality/union-square-tresidder-memorial	PredictedValue: 1.0
+http://news.stanford.edu/news/2007/september12/union-091207.html	PredictedValue: 0.999999999921
+https://rde.stanford.edu/hospitality/subway-tresidder	PredictedValue: 0.999999990313
+https://rde.stanford.edu/hospitality/tresidder	PredictedValue: 0.999998995878
+https://rde.stanford.edu/dining/locations-hours	PredictedValue: 0.999997788023
+https://rde.stanford.edu/dining/caf%C3%A9%E2%80%99s-and-market-locations-and-hours	PredictedValue: 0.994640456179
+https://uit.stanford.edu/service/campuscard/cardoffice	PredictedValue: 0.970690656739
+https://ed.stanford.edu/sites/default/files/places_to_eat_2012.pdf	PredictedValue: 0.959555927723
+https://registrar.stanford.edu/staff/registrars-office-directory	PredictedValue: 0.735915382721
+
+queryNo: 70	Query: spring semester academic calendar
+Ranking of URL:
+https://registrar.stanford.edu/resources-and-help/stanford-academic-calendar	PredictedValue: 1.0
+https://registrar.stanford.edu/resources-and-help/stanford-academic-calendar/previous-academic-calendars/2010-11-stanford-academic	PredictedValue: 1.0
+https://ohs.stanford.edu/calendar	PredictedValue: 0.999999999988
+https://continuingstudies.stanford.edu/policies/policies-academic-calendar	PredictedValue: 0.999999999878
+https://gap.stanford.edu/handbooks/gap-handbook/chapter-3/subchapter-1/page-3-1-1	PredictedValue: 0.999999994908
+https://rde.stanford.edu/studenthousing/academic-breaks	PredictedValue: 0.999998478379
+https://www-cdn.law.stanford.edu/wp-content/uploads/2015/04/2016-2017-academic-calendar-FINAL.pdf	PredictedValue: 0.999981019534
+http://exploredegrees.stanford.edu/academiccalendar/academiccalendar.pdf	PredictedValue: 0.994620934576
+https://www.gsb.stanford.edu/organizations/recruit/finding-candidates/calendar	PredictedValue: 0.981334298598
+https://continuingstudies.stanford.edu/	PredictedValue: 0.892212068623
+
+queryNo: 71	Query: how are stanford dorms
+Ranking of URL:
+https://rde.stanford.edu/conferences/non-student-summer-housing-how-apply	PredictedValue: 0.980637336536
+https://rde.stanford.edu/studenthousing	PredictedValue: 0.975986323194
+https://rde.stanford.edu/studenthousing/housing-options	PredictedValue: 0.845541881742
+http://unofficial.stanford.edu/?page_id=1653	PredictedValue: 0.841757449285
+http://postdocs.stanford.edu/handbook/housing.html	PredictedValue: 0.835855700634
+https://fsh.stanford.edu/	PredictedValue: 0.810340375114
+https://rde.stanford.edu/studenthousing/single-graduate-housing	PredictedValue: 0.776033002274
+https://rde.stanford.edu/studenthousing/lagunita-court	PredictedValue: 0.765482916623
+https://rde.stanford.edu/studenthousing/housing-listings	PredictedValue: 0.762259978953
+http://visit.stanford.edu/tours/virtual/residence.html	PredictedValue: 0.630312669447
+
+queryNo: 72	Query: why is stanford rated high in school ranking
+Ranking of URL:
+http://news.stanford.edu/news/2013/january/test-scores-ranking-011513.html	PredictedValue: 1.0
+http://news.stanford.edu/thedish/2016/03/21/stanford-online-high-school-enters-second-decade/	PredictedValue: 0.999999999996
+https://ohs.stanford.edu/about/news/stanford-ohs-recognized-business-insider	PredictedValue: 0.999999995636
+https://ed.stanford.edu/sites/default/files/partnership_schools_initiative.pdf	PredictedValue: 0.999999966746
+http://crowdresearch.stanford.edu/w/img_auth.php/b/bd/Boomerang_2.0.pdf	PredictedValue: 0.991461732021
+http://tusb.stanford.edu/tag/rankings	PredictedValue: 0.990222746148
+http://web.stanford.edu/group/bridgeproject/definingthetop/definingthetop.pdf	PredictedValue: 0.971854709792
+http://www.stanford.edu/group/set/cgi-bin/wordpress/stanford-equestrian-teams-historic-season/	PredictedValue: 0.946369657403
+http://news.stanford.edu/news/2012/september/new-student-orientation-091712.html	PredictedValue: 0.877669932678
+http://pediatrics.stanford.edu/content/dam/sm/pediatrics/documents/NEWS/2016LPCH-USNews.pdf	PredictedValue: 0.724733317677
+
+queryNo: 73	Query: cs course listing
+Ranking of URL:
+https://cs.stanford.edu/academics/courses	PredictedValue: 1.0
+https://explorecourses.stanford.edu/	PredictedValue: 0.999999999998
+http://cs.stanford.edu/courses/schedules/2015-2016.spring.php	PredictedValue: 0.994115570553
+https://cs.stanford.edu/courses/schedules/2016-2017.winter.php	PredictedValue: 0.993415854552
+http://cs.stanford.edu/courses/schedules/2015-2016.winter.php	PredictedValue: 0.992633565269
+https://cs.stanford.edu/courses/schedules/2015-2016.summer.php	PredictedValue: 0.991759118065
+http://web.stanford.edu/class/pwr3-02/coursework/content/visrhetschedule.doc	PredictedValue: 0.954243261631
+https://web.stanford.edu/class/math42/schedule.html	PredictedValue: 0.93584425764
+https://web.stanford.edu/class/archive/math/math20/math20.1144/schedule.html	PredictedValue: 0.9252207239
+http://cva.stanford.edu/classes/ee482a/schedule.htm	PredictedValue: 0.9252207239
+
+queryNo: 74	Query: stanford outdoor
+Ranking of URL:
+https://explorecourses.stanford.edu/search?view=catalog&academicYear=&page=0&q=OUTDOOR&filter-departmentcode-OUTDOOR=on&filter-coursestatus-Active=on	PredictedValue: 1.0
+http://outdoored.stanford.edu/center/	PredictedValue: 1.0
+http://outdoored.stanford.edu/	PredictedValue: 1.0
+http://outdoored.stanford.edu/center/rentals/	PredictedValue: 0.999999984657
+https://alpineclub.stanford.edu/	PredictedValue: 0.991607120657
+http://outdoored.stanford.edu/center/soc/	PredictedValue: 0.973978798272
+http://outdoored.stanford.edu/spot/	PredictedValue: 0.923903047538
+http://outdoored.stanford.edu/wp-content/uploads/2013/06/SO-Constitution	PredictedValue: 0.899663122592
+http://outdoored.stanford.edu/spot/basecamp/	PredictedValue: 0.809046564907
+http://outdoored.stanford.edu/center/outpost/	PredictedValue: 0.772674387903
+
+queryNo: 75	Query: harry potter
+Ranking of URL:
+https://sparq.stanford.edu/solutions/harry-potter-and-elixir-empathy	PredictedValue: 1.0
+https://searchworks.stanford.edu/view/9251723	PredictedValue: 1.0
+https://searchworks.stanford.edu/view/9175848	PredictedValue: 1.0
+https://searchworks.stanford.edu/view/7705155	PredictedValue: 1.0
+https://searchworks.stanford.edu/view/5761883	PredictedValue: 1.0
+https://searchworks.stanford.edu/view/5329328	PredictedValue: 1.0
+https://searchworks.stanford.edu/view/11700990	PredictedValue: 1.0
+https://searchworks.stanford.edu/view/10196866	PredictedValue: 1.0
+http://fairuse.stanford.edu/2008/09/09/harry_potter_lexicon_court_say/	PredictedValue: 1.0
+http://events.stanford.edu/events/613/61365/	PredictedValue: 0.999999712313
+
+queryNo: 76	Query: sublet student hours
+Ranking of URL:
+https://rde.stanford.edu/studenthousing/sublicensing-places4students-sublet-advertisements	PredictedValue: 1.0
+https://rde.stanford.edu/studenthousing/undergraduate-housing-newsletter-march-2016	PredictedValue: 0.977957479382
+https://rde.stanford.edu/studenthousing/community-housing	PredictedValue: 0.936393843096
+https://rde.stanford.edu/studenthousing/sublicense	PredictedValue: 0.892307573822
+https://rde.stanford.edu/studenthousing/continuous-assignments	PredictedValue: 0.890878338673
+https://rde.stanford.edu/studenthousing/lock-outs-sublicensed-apartments	PredictedValue: 0.882726931549
+https://rde.stanford.edu/studenthousing/housing-front-desk-gerhard-casper-quad	PredictedValue: 0.876544902368
+https://law.stanford.edu/education/only-at-sls/global-initiative/foreign-legal-studies-program/bucerius-law-school-bls-hamburg-germany/	PredictedValue: 0.857605353235
+http://web.stanford.edu/dept/news/stanfordtoday/ed/9801/9801ncf2.html	PredictedValue: 0.823237322015
+http://law.stanford.edu/wp-content/uploads/sites/default/files/child-page/183003/doc/slspublic/bucerius-2012.pdf	PredictedValue: 0.695568499829
+
+queryNo: 77	Query: nvidia auditorium
+Ranking of URL:
+https://campus-map.stanford.edu/	PredictedValue: 1.0
+http://maps.stanford.edu/ada/building-ada.cfm?FACIL_ID=04-080	PredictedValue: 0.999998726439
+http://events.stanford.edu/events/649/64941/	PredictedValue: 0.999998726439
+http://events.stanford.edu/events/617/61713/	PredictedValue: 0.999998726439
+http://events.stanford.edu/events/617/61703/	PredictedValue: 0.992365664826
+https://events.stanford.edu/byCategory/22/	PredictedValue: 0.989258243562
+https://engineering.stanford.edu/events/month/2016-10	PredictedValue: 0.973366358267
+https://energy.stanford.edu/energy-seminar/past-energy-seminars?combine=&page=4	PredictedValue: 0.96991203315
+https://engineering.stanford.edu/events/month/2016-11	PredictedValue: 0.925879968953
+https://engineering.stanford.edu/events/month/2017-03	PredictedValue: 0.833380343885
+
+queryNo: 78	Query: math
+Ranking of URL:
+https://mathematics.stanford.edu/	PredictedValue: 1.0
+https://mathematics.stanford.edu/people/faculty-lecturers/	PredictedValue: 0.999999999612
+http://youcubed.stanford.edu/category/teaching-ideas/math-apps/	PredictedValue: 0.999999714851
+http://online.stanford.edu/course/how-learn-math-teachers	PredictedValue: 0.999998902725
+http://math.stanford.edu/~white/	PredictedValue: 0.999995819434
+https://mathematics.stanford.edu/academics/undergraduate/math-minor/	PredictedValue: 0.999993489109
+https://mathematics.stanford.edu/academics/winter-2016/	PredictedValue: 0.996893093761
+http://mathematics.stanford.edu/events/	PredictedValue: 0.985293577682
+http://sumac.stanford.edu/	PredictedValue: 0.951933314748
+https://epgyschools.stanford.edu/doe/	PredictedValue: 0.845671136973
+
+queryNo: 79	Query: change meal plan stanford
+Ranking of URL:
+https://rde.stanford.edu/dining/mealplans	PredictedValue: 1.0
+https://rde.stanford.edu/dining/meal-plan-frequently-asked-questions	PredictedValue: 1.0
+https://resed.stanford.edu/life-residences/about-meals-row/what-you-might-expect-your-row-meal-plan	PredictedValue: 1.0
+https://web.stanford.edu/dept/registrar/bulletin0809/4848.htm	PredictedValue: 0.999999999999
+https://rde.stanford.edu/dining/my-meal-plan-account	PredictedValue: 0.99999999997
+https://web.stanford.edu/dept/registrar/bulletin1112/4853.htm	PredictedValue: 0.989922639859
+https://summer.stanford.edu/programs/international/housing-dining/	PredictedValue: 0.989170041693
+https://rde.stanford.edu/studenthousing	PredictedValue: 0.957192209922
+https://rde.stanford.edu/sustainability	PredictedValue: 0.860117925852
+https://rde.stanford.edu/studenthousing/apartments-and-suites	PredictedValue: 0.81031865384
+
+queryNo: 80	Query: computer science dean
+Ranking of URL:
+https://www-cs.stanford.edu/	PredictedValue: 1.0
+https://forum.stanford.edu/research/profiles.php	PredictedValue: 1.0
+https://engineering.stanford.edu/about/deans-office	PredictedValue: 1.0
+https://www-cs.stanford.edu/directory/faculty	PredictedValue: 0.999999991932
+https://www-cs.stanford.edu/cs50	PredictedValue: 0.999999834839
+http://web.stanford.edu/dept/news/pr/95/951106hennessy.html	PredictedValue: 0.981343539911
+http://theory.stanford.edu/~italgam/Inbal%20Talgam-Cohen%20Vitae.pdf	PredictedValue: 0.904970038867
+http://frosoco.stanford.edu/events/view/69	PredictedValue: 0.851894780011
+
+queryNo: 81	Query: places to study
+Ranking of URL:
+https://lane.stanford.edu/using-lib/studyspaces.html	PredictedValue: 1.0
+http://library.stanford.edu/using/study	PredictedValue: 1.0
+http://web.stanford.edu/dept/CTL/cgi-bin/academicskillscoaching/where-to-study-2/	PredictedValue: 0.999999970601
+https://library.stanford.edu/research/data-management-services/case-studies/case-study-file-naming	PredictedValue: 0.99999986765
+https://library.stanford.edu/libraries/east-asia/east-asia-study-areas	PredictedValue: 0.999991349511
+https://library.stanford.edu/libraries/lathrop/24-hour-study-room	PredictedValue: 0.995816863934
+https://library.stanford.edu/using/equipment/color-printer	PredictedValue: 0.984623499697
+https://library.stanford.edu/cubberley/reserve-room	PredictedValue: 0.708137645673
+http://library.stanford.edu/using/access-and-privileges	PredictedValue: 0.684684445539
+https://library.stanford.edu/englib/using-terman-library/visitor-information	PredictedValue: 0.67026454719
+
+queryNo: 82	Query: scpd tuition
+Ranking of URL:
+https://registrar.stanford.edu/students/tuition-and-fees/related-links-and-previous-years-tuition/tuition-and-fees-2015-16/summer	PredictedValue: 1.0
+http://scpdweb.stanford.edu/admissions/tuition-fees	PredictedValue: 1.0
+http://scpd.stanford.edu/sites/default/files/honorscorphandbook.pdf	PredictedValue: 1.0
+http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?certificateId=1226717&method=load	PredictedValue: 0.999999999857
+http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1240861	PredictedValue: 0.999999770129
+http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1240186	PredictedValue: 0.999999770129
+http://scpd.stanford.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=1163094	PredictedValue: 0.999999770129
+https://ed.stanford.edu/admissions/financing/masters	PredictedValue: 0.995447074706
+http://scpd.stanford.edu/electrical-engineering/	PredictedValue: 0.948844655481
+
+queryNo: 83	Query: which cafe opens on sunday
+Ranking of URL:
+http://visit.stanford.edu/activities/dining.html	PredictedValue: 0.999999995416
+https://museum.stanford.edu/visit/cafe.html	PredictedValue: 0.999999808087
+https://rde.stanford.edu/hospitality/axe-palm	PredictedValue: 0.973680063951
+https://museum.stanford.edu/visit/plan_a_visit.html	PredictedValue: 0.950896426427
+https://web.stanford.edu/~sommer/ASL-local.html	PredictedValue: 0.925933589598
+http://pem.stanford.edu/parents/information.html	PredictedValue: 0.784568725167
+https://alumni.stanford.edu/content/saa/reunion/pdfs/RH13_Places_to_View_Football_on_Campus.pdf	PredictedValue: 0.776775764608
+http://sun.stanford.edu/LWS_Workshop/DiningPlaces.pdf	PredictedValue: 0.738121668318
+https://aac2014.stanford.edu/sites/default/files/pdf-files/2013_info_and_amenity_sheet_with_map.pdf	PredictedValue: 0.737743649146
+https://museum.stanford.edu/news_room/archived_announcements_name_change.html	PredictedValue: 0.723091895847
+
+queryNo: 84	Query: lathrop library tech desk printing
+Ranking of URL:
+https://vptl.stanford.edu/student-resources/computers-printing/tech-desk-lathrop-library/tech-desk-equipment-checkout	PredictedValue: 1.0
+https://vptl.stanford.edu/student-resources/computers-printing/tech-desk-lathrop-library	PredictedValue: 1.0
+https://vptl.stanford.edu/student-resources/computers-printing/poster-printing-lathrop	PredictedValue: 1.0
+https://vptl.stanford.edu/student-resources/computers-printing/lathrop-media-studio	PredictedValue: 1.0
+https://library.stanford.edu/using/print-copy-scan/poster-large-format-printing	PredictedValue: 1.0
+http://library.stanford.edu/libraries/green/about	PredictedValue: 1.0
+http://library.stanford.edu/	PredictedValue: 1.0
+https://library.stanford.edu/using/equipment	PredictedValue: 0.994439454467
+https://alumni.stanford.edu/get/page/magazine/article/?article_id=74814	PredictedValue: 0.941664848775
+https://biosciences.stanford.edu/current/resources/academic.html	PredictedValue: 0.809780929355
+
+queryNo: 85	Query: weight loss
+Ranking of URL:
+https://web.stanford.edu/group/hopes/cgi-bin/hopes_test/weight-loss-demystifying-a-medical-mystery/	PredictedValue: 1.0
+https://med.stanford.edu/news/all-news/2010/12/making-weight-loss-work.html	PredictedValue: 1.0
+http://scopeblog.stanford.edu/2011/08/15/study-shows-link-between-maternal-iv-fluids-and-weight-loss-in-newborns/	PredictedValue: 1.0
+http://med.stanford.edu/nutrition/nutrition-studies-group/completed-studies/sleep-and-weight-loss.html	PredictedValue: 1.0
+http://events.stanford.edu/events/530/53001/	PredictedValue: 1.0
+http://med.stanford.edu/nutrition/nutrition-studies-group/completed-studies/comparative-weight-loss.html	PredictedValue: 1.0
+https://med.stanford.edu/clinicaltrials/trials/NCT01661426	PredictedValue: 0.99999999999
+https://web.stanford.edu/dept/radiology/radiologysite/site182.html	PredictedValue: 0.999999966955
+http://whatmeds.stanford.edu/medications/bupropion.html	PredictedValue: 0.849797843718
+
+queryNo: 86	Query: stats 305
+Ranking of URL:
+https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&q=STATS305	PredictedValue: 1.0
+https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=STATS+305%3A+Introduction+to+Statistical+Modeling&collapse=	PredictedValue: 1.0
+https://explorecourses.stanford.edu/search?page=6&q=STATS&filter-coursestatus-Active=on&view=catalog&academicYear=20112012&filter-departmentcode-STATS=on	PredictedValue: 1.0
+http://explorecourses.stanford.edu/print;jsessionid=ptwt9p5iz7yx1bta520e9tklo?q=STATS+200&descriptions=on&catalog=	PredictedValue: 1.0
+https://statistics.stanford.edu/courses/stats-20288	PredictedValue: 0.999999999998
+https://statistics.stanford.edu/courses-autumn-2016	PredictedValue: 0.986593126678
+http://statweb.stanford.edu/~tibs/sta305.html	PredictedValue: 0.9775705109
+http://statweb.stanford.edu/~owen/courses/305a/305MinNotesMarked.pdf	PredictedValue: 0.97717222665
+https://explorecourses.stanford.edu/search;jsessionid=q0d9f1xahjzr11vhp4b6nkqly?q=STATS+305B%3A+Methods+for+Applied+Statistics+I&view=timeschedule&catalog=&page=0&filter-coursestatus-Active=on&collapse=	PredictedValue: 0.9750395333
+
+queryNo: 87	Query: 2017 commencement schedule
+Ranking of URL:
+https://commencement.stanford.edu/events/schedule	PredictedValue: 1.0
+https://commencement.stanford.edu/events/class	PredictedValue: 1.0
+https://commencement.stanford.edu/	PredictedValue: 1.0
+https://commencement.stanford.edu/info/parents	PredictedValue: 0.999999999992
+https://commencement.stanford.edu/events/baccalaureate	PredictedValue: 0.999999963971
+https://commencement.stanford.edu/events/diploma/medicine	PredictedValue: 0.999986684927
+https://commencement.stanford.edu/events/diploma/education	PredictedValue: 0.999983619717
+https://commencement.stanford.edu/events/senior-gift-check-presentation	PredictedValue: 0.999981715668
+https://commencement.stanford.edu/events/human-biology-ceremony	PredictedValue: 0.995854213656
+https://registrar.stanford.edu/resources-and-help/stanford-academic-calendar-2016-17/future-academic-calendars	PredictedValue: 0.983584142446
+
+queryNo: 88	Query: best tour spot at stanford
+Ranking of URL:
+http://visit.stanford.edu/tours/	PredictedValue: 1.0
+http://outdoored.stanford.edu/spot/	PredictedValue: 1.0
+http://visit.stanford.edu/faq/	PredictedValue: 0.989874925274
+http://visit.stanford.edu/plan/parking.html	PredictedValue: 0.963306013139
+http://visit.stanford.edu/plan/guides/visit.html	PredictedValue: 0.842109321625
+https://live.stanford.edu/plan-your-visit/directions-parking	PredictedValue: 0.826100942241
+https://visit.stanford.edu/plan/guides/undergrad.html	PredictedValue: 0.760571221162
+https://alumni.stanford.edu/get/page/travel-study/faq	PredictedValue: 0.743127677207
+http://visit.stanford.edu/basics/highlights.html	PredictedValue: 0.719793363358
+https://engineering.stanford.edu/about/visit	PredictedValue: 0.680452774224
+
+queryNo: 89	Query: christopher manning
+Ranking of URL:
+https://iriss.stanford.edu/people/christopher-manning	PredictedValue: 1.0
+https://explorecourses.stanford.edu/instructor/manning	PredictedValue: 1.0
+http://nlp.stanford.edu/manning/papers/	PredictedValue: 1.0
+http://nlp.stanford.edu/manning/	PredictedValue: 1.0
+http://nlp.stanford.edu/~manning/xyzzy/Manning_Christopher_DeepNLP.pptx	PredictedValue: 0.999999999903
+http://nlp.stanford.edu/manning/tex/	PredictedValue: 0.999999999297
+http://online.stanford.edu/instructors/christopher-manning	PredictedValue: 0.999999994779
+http://stanford.edu/~lmthang/	PredictedValue: 0.990264826768
+http://nlp.stanford.edu/manning/courses/ling289/logistic.pdf	PredictedValue: 0.935187543337
+http://nlp.stanford.edu/IR-book/	PredictedValue: 0.624722329361
+
+queryNo: 90	Query: alice in wonderland
+Ranking of URL:
+https://searchworks.stanford.edu/view/953176	PredictedValue: 1.0
+https://searchworks.stanford.edu/view/7722242	PredictedValue: 1.0
+https://searchworks.stanford.edu/view/6966750	PredictedValue: 1.0
+https://searchworks.stanford.edu/view/6349340	PredictedValue: 1.0
+https://searchworks.stanford.edu/view/6306177	PredictedValue: 1.0
+https://searchworks.stanford.edu/view/2444864	PredictedValue: 1.0
+https://searchworks.stanford.edu/view/1357921	PredictedValue: 1.0
+https://searchworks.stanford.edu/view/1357502	PredictedValue: 1.0
+https://searchworks.stanford.edu/view/10604987	PredictedValue: 1.0
+
+queryNo: 91	Query: dining plan
+Ranking of URL:
+https://rde.stanford.edu/dining/undergraduate-meal-plans	PredictedValue: 1.0
+https://rde.stanford.edu/dining/mealplans	PredictedValue: 1.0
+https://rde.stanford.edu/dining/gerhard-casper-dining-commons	PredictedValue: 1.0
+https://rde.stanford.edu/dining/food-allergies	PredictedValue: 1.0
+https://rde.stanford.edu/dining/graduate-and-post-doc-meal-plans	PredictedValue: 1.0
+https://rde.stanford.edu/dining/sustainable-food-program	PredictedValue: 0.999999999998
+https://rde.stanford.edu/dining/faculty-meal-plans	PredictedValue: 0.999999986122
+https://resed.stanford.edu/life-residences/about-meals-row/what-you-might-expect-your-row-meal-plan	PredictedValue: 0.996729088114
+https://web.stanford.edu/dept/registrar/bulletin0910/4860.htm	PredictedValue: 0.989489494062
+http://www.stanford.edu/dept/rde/dining/staff_meals.htm	PredictedValue: 0.9867918947
+
+queryNo: 92	Query: florence moore address
+Ranking of URL:
+https://rde.stanford.edu/studenthousing/florence-moore-hall-0	PredictedValue: 1.0
+https://rde.stanford.edu/studenthousing/florence-moore-hall	PredictedValue: 1.0
+https://rde.stanford.edu/dining/kosher-dining-program-florence-moore	PredictedValue: 1.0
+http://www.stanford.edu/group/westflostaff/	PredictedValue: 0.99999999598
+https://rde.stanford.edu/studenthousing/housing-front-desks	PredictedValue: 0.994361269862
+https://rde.stanford.edu/studenthousing/cooperative-houses	PredictedValue: 0.890067463817
+https://lists.stanford.edu/mailman/listinfo/rde-flomo-chefs-table	PredictedValue: 0.737809593467
+https://stanfordwho.stanford.edu/SWApp/Search.do?search=jaime	PredictedValue: 0.73439118647
+https://stanford.edu/dept/rde/cgi-bin/drupal/conferences/sites/default/files/pdf/Conference%20Front%20Desk%20(CFD)%20Contact%20Information.pdf	PredictedValue: 0.664726029449
+https://stanfordwho.stanford.edu/SWApp/detailAction.do?key=DR074A261%20%20%20%20%20%20%20&search=zhang,%20yi&soundex=&stanfordonly=&affilfilter=everyone&filters=	PredictedValue: 0.644942825986
+
+queryNo: 93	Query: dawson engler
+Ranking of URL:
+https://profiles.stanford.edu/dawson-engler	PredictedValue: 1.0
+http://web.stanford.edu/~engler/	PredictedValue: 1.0
+http://web.stanford.edu/~engler/wcsss.ps	PredictedValue: 0.999999999341
+https://web.stanford.edu/class/cs240/old/sp2014/index.spr09.html	PredictedValue: 0.999999986872
+http://web.stanford.edu/~engler/mc-osdi.pdf	PredictedValue: 0.999999883265
+https://web.stanford.edu/~engler/dpf-sigcomm96.ps	PredictedValue: 0.99441911302
+https://web.stanford.edu/~engler/msthesis.ps	PredictedValue: 0.99370139536
+http://theory.stanford.edu/~yxie/	PredictedValue: 0.930960287282
+http://web.stanford.edu/~yjf/	PredictedValue: 0.75667879991
+
+queryNo: 94	Query: stanford dining hall
+Ranking of URL:
+https://rde.stanford.edu/dining/graduate-and-postdoc-student-dining-faq	PredictedValue: 1.0
+https://rde.stanford.edu/dining/florence-moore-dining	PredictedValue: 1.0
+https://rde.stanford.edu/dining/dining-hall-hours	PredictedValue: 1.0
+https://rde.stanford.edu/dining/contact-list	PredictedValue: 1.0
+https://rde.stanford.edu/dining	PredictedValue: 1.0
+http://web.stanford.edu/dept/rde/dining/facebooklanding.html	PredictedValue: 1.0
+https://rde.stanford.edu/dining/executive-directors-message	PredictedValue: 1.0
+https://rde.stanford.edu/dining/student-employment	PredictedValue: 0.999999993746
+https://rde.stanford.edu/dining/summer-2016	PredictedValue: 0.999999980557
+https://rde.stanford.edu/dining/thanksgiving-hours	PredictedValue: 0.999988316876
+
+queryNo: 95	Query: spring drop deadline
+Ranking of URL:
+http://exploredegrees.stanford.edu/academiccalendar/	PredictedValue: 0.999999999998
+http://exploredegrees.stanford.edu/academiccalendar/	PredictedValue: 0.999999999998
+http://exploredegrees.stanford.edu/academiccalendar/academiccalendar.pdf	PredictedValue: 0.9999999773
+https://registrar.stanford.edu/resources-and-help/stanford-academic-calendar/2015-16-stanford-academic-calendar	PredictedValue: 0.999999903799
+https://registrar.stanford.edu/resources-and-help/stanford-academic-calendar/previous-academic-calendars/2011-12-stanford-academic	PredictedValue: 0.999999367897
+http://med.stanford.edu/school/academic-calendar.html	PredictedValue: 0.999999240027
+https://registrar.stanford.edu/students/graduation/undergraduate-graduation-checklist	PredictedValue: 0.988065338281
+https://registrar.stanford.edu/staff/commencement-processes-and-deadlines	PredictedValue: 0.917218291048
+https://continuingstudies.stanford.edu/courses/professional-and-personal-development/legal-issues-in-cybersecurity/20163_WSP-285	PredictedValue: 0.874845194717
+https://continuingstudies.stanford.edu/courses/liberal-arts-and-sciences/refugee-crises-across-the-globe/20163_POL-182	PredictedValue: 0.874845194717
+
+queryNo: 96	Query: dining menus
+Ranking of URL:
+https://rde.stanford.edu/dining/lakeside-dining	PredictedValue: 1.0
+https://rde.stanford.edu/dining/food-allergies	PredictedValue: 1.0
+https://rde.stanford.edu/dining/arrillaga-family-dining-commons	PredictedValue: 1.0
+http://visit.stanford.edu/activities/dining.html	PredictedValue: 1.0
+http://web.stanford.edu/dept/rde/dining/facebooklanding.html	PredictedValue: 1.0
+https://rde.stanford.edu/dining/wilbur-dining	PredictedValue: 0.999999999999
+https://rde.stanford.edu/dining/graduate-and-post-doc-meal-plans	PredictedValue: 0.999999999962
+https://rde.stanford.edu/dining/arrillaga-nights	PredictedValue: 0.999999998411
+https://web.stanford.edu/dept/rde/dining/pdfs/StanfordDining_hours2011-12.pdf	PredictedValue: 0.999999985388
+https://www.gsb.stanford.edu/sites/gsb/files/menu-schwab-catering.pdf	PredictedValue: 0.865148861202
+
+queryNo: 97	Query: painting studio access in mcmurtry
+Ranking of URL:
+https://explorecourses.stanford.edu/search;jsessionid=3r6quw1jmk2wb4sn3rwbzt6?view=catalog&academicYear=&page=0&q=ARTSTUDI&filter-departmentcode-ARTSTUDI=on&filter-coursestatus-Active=on&filter-term-Winter=on	PredictedValue: 0.999999999992
+https://art.stanford.edu/	PredictedValue: 0.999999989409
+https://headsup.stanford.edu/mcmurtry	PredictedValue: 0.999999933738
+http://www.museum.stanford.edu/explore/documents/FINAL_CAC_Newsletter_Jan-March_2015.pdf	PredictedValue: 0.994976376714
+https://arts.stanford.edu/for-visitors/explore-the-arts-district-guide-map/	PredictedValue: 0.977437762689
+https://arts.stanford.edu/works-from-american-art-giants-enter-stanfords-permanent-collection/	PredictedValue: 0.97490100687
+https://arts.stanford.edu/organization/cantor-arts-center/	PredictedValue: 0.971565579425
+https://arts.stanford.edu/for-faculty/	PredictedValue: 0.783724520139
+http://www.museum.stanford.edu/visit/documents/CAC_Floorplan_map_Oct_2013_3.pdf	PredictedValue: 0.656884534921
+
+queryNo: 98	Query: international student center hours
+Ranking of URL:
+https://international.stanford.edu/	PredictedValue: 1.0
+https://bechtel.stanford.edu/	PredictedValue: 1.0
+https://bechtel.stanford.edu/about-us/hours	PredictedValue: 0.999999942544
+https://undergrad.stanford.edu/advising/student-guides/bechtel-international-center	PredictedValue: 0.999998635393
+https://bechtel.stanford.edu/practical-matters/taxes	PredictedValue: 0.999996538478
+https://bechtel.stanford.edu/programs-and-events/events-center	PredictedValue: 0.994134977694
+https://bechtel.stanford.edu/coming-stanford/new-student-information/removing-enrollment-hold	PredictedValue: 0.98398020163
+https://ee.stanford.edu/student-resources/CA-appointments/contact	PredictedValue: 0.935699464024
+https://summer.stanford.edu/welcomeweekend/	PredictedValue: 0.90856441656
+https://bechtel.stanford.edu/about-us/appointments	PredictedValue: 0.902217571455
+
+queryNo: 99	Query: nearest grocery store
+Ranking of URL:
+http://scocal.stanford.edu/opinion/cabral-v-ralphs-grocery-33956	PredictedValue: 1.0
+http://web.stanford.edu/group/rains/shop_grocery.html	PredictedValue: 0.997295830398
+http://web.stanford.edu/group/aagsa/public/Asian%20restaurants%20and%20grocery%20stores.pdf	PredictedValue: 0.969085840071
+http://med.stanford.edu/irt/edtech/video/fall2015auth/html/pdf/inde201-10-05-2015-16-lect-Gardener-1.pdf	PredictedValue: 0.900922759609
+https://lbre.stanford.edu/pssistanford-recycling/frequently-asked-questions/frequently-asked-questions-plastic-recycling	PredictedValue: 0.888224702062
+https://med.stanford.edu/content/dam/sm/stanfordhealth4all/Documents/H4A%202015%20abstracts%20for%20web.pdf	PredictedValue: 0.861792838675
+https://people.stanford.edu/claudeg/sites/default/files/variability-in-community.pdf	PredictedValue: 0.729753764879
+https://web.stanford.edu/group/peruanos/informa/faq.htm	PredictedValue: 0.721755049317
+http://news.stanford.edu/2015/06/13/baccalaureate-ceremony-jordan-061315/	PredictedValue: 0.679345123845
+
+queryNo: 100	Query: stanford commencement
+Ranking of URL:
+https://commencement.stanford.edu/events/schedule	PredictedValue: 1.0
+https://commencement.stanford.edu/	PredictedValue: 1.0
+http://news.stanford.edu/2016/01/29/burns-commencement-speaker-012916/	PredictedValue: 1.0
+https://commencement.stanford.edu/plan-your-visit/parking	PredictedValue: 0.999999999999
+https://www.gsb.stanford.edu/visit/commencement	PredictedValue: 0.99999999997
+https://commencement.stanford.edu/info/parents	PredictedValue: 0.999999999968
+https://commencement.stanford.edu/info/students/instructions-grads	PredictedValue: 0.999999994104
+https://commencement.stanford.edu/events/diploma	PredictedValue: 0.999999833716
+https://commencement.stanford.edu/events/diploma/law	PredictedValue: 0.987020873196
+
+queryNo: 101	Query: stanford parking permits
+Ranking of URL:
+https://transportation.stanford.edu/parking/purchase-a-parking-permit/permit-prices-2016-17	PredictedValue: 1.0
+https://transportation.stanford.edu/parking/deal-with-parking-tickets/parking-permit-fundamentals	PredictedValue: 1.0
+https://transportation.stanford.edu/	PredictedValue: 1.0
+https://pmplus.stanford.edu/pats/transportation/tour/	PredictedValue: 1.0
+https://transportation.stanford.edu/about/contact	PredictedValue: 1.0
+https://transportation.stanford.edu/parking/purchase-a-parking-permit/how-to-purchase	PredictedValue: 1.0
+https://transportation.stanford.edu/parking/purchase-a-parking-permit/commuters	PredictedValue: 0.999999999997
+https://transportation.stanford.edu/parking/learn-about-vehicle-policies/rules-and-regulations	PredictedValue: 0.999999999938
+https://transportation.stanford.edu/orders/	PredictedValue: 0.999999999729
+http://postdocs.stanford.edu/incoming_scholars/upon_arrival.html	PredictedValue: 0.835226150617
+
+queryNo: 102	Query: marguerite shuttle
+Ranking of URL:
+https://transportation.stanford.edu/marguerite/x	PredictedValue: 1.0
+https://transportation.stanford.edu/marguerite/view-maps-and-schedules	PredictedValue: 1.0
+https://transportation.stanford.edu/marguerite/slac	PredictedValue: 1.0
+https://transportation.stanford.edu/marguerite	PredictedValue: 1.0
+https://transportation.stanford.edu/marguerite/about-the-marguerite/history	PredictedValue: 0.999999999994
+https://transportation.stanford.edu/marguerite/sesp	PredictedValue: 0.999999081972
+https://transportation.stanford.edu/marguerite/s	PredictedValue: 0.999999081972
+https://transportation.stanford.edu/marguerite/c	PredictedValue: 0.999999081972
+https://commencement.stanford.edu/plan-your-visit/parking	PredictedValue: 0.999998899024
+https://porterdrivecampus.stanford.edu/neighborhood/transportation-porter-drive	PredictedValue: 0.991528830928
+
+queryNo: 103	Query: bike registration
+Ranking of URL:
+https://transportation.stanford.edu/bicycle/learn-about-bike-safety/register-a-bike	PredictedValue: 1.0
+https://transportation.stanford.edu/bicycle/find-resources/attend-an-event	PredictedValue: 1.0
+https://transportation.stanford.edu/bicycle	PredictedValue: 1.0
+https://glo.stanford.edu/events/bike-registration-0	PredictedValue: 0.999999999999
+http://web.stanford.edu/group/SUDPS/cgi-bin/diversion.php	PredictedValue: 0.996730461589
+https://sites.stanford.edu/undergrad-dev/advising/freshman/new-student-orientation-nso/nso-student-events-calendar/tuesday-september-15	PredictedValue: 0.994438125499
+https://transportation.stanford.edu/maps-resources-access/sustainable-transportation/free-and-discounted-stanford-transportation-programs	PredictedValue: 0.993820796196
+
+queryNo: 104	Query: scpd lecture videos
+Ranking of URL:
+http://scpd.stanford.edu/free-learning/webinars/stanford-engineering-hero-lectures/stanford-engineering-hero-lecture-0	PredictedValue: 0.999999999996
+http://scpd.stanford.edu/free-learning/webinars/donald-knuth-lectures/cs144c-classroom-lecture-about-disk-storage-and-b-0	PredictedValue: 0.999999960724
+http://scpd.stanford.edu/google/videos/index.php	PredictedValue: 0.999999570224
+http://scpd.stanford.edu/search/publicCourseAdvancedSearch.do?method=searchNoCN&cspIndex=true&showInternal=false&quickSearch=false&isPageDisplayed=true&courseSearch.programStreamStringArray=0&courseSearch.programAreaStringArray=11221&courseSearch.sectionAccreditingAssociationStringArray=0&courseSearch.sectionInstructorName=&courseSearch.sectionDayOfWeekStringArray=0&courseSearch.sectionStartTimeStringArray=0&courseSearch.sectionStartMonthStringArray=0&courseSearch.campusStringArray=0	PredictedValue: 0.950150807881
+http://scpd.stanford.edu/search/publicCourseAdvancedSearch.do?method=searchNoCN&cspIndex=true&showInternal=false&quickSearch=false&isPageDisplayed=true&courseSearch.courseDescriptionKeyword=&courseSearch.sectionSemesterString=0&courseSearch.deliveryMethodString=Any+Delivery+Option&courseSearch.courseCategoryStringArray=0&courseSearch.programStreamStringArray=0&courseSearch.programAreaStringArray=11221&courseSearch.sectionAccreditingAssociationStringArray=0&courseSearch.sectionInstructorName=&courseSearch.sectionDayOfWeekStringArray=0&courseSearch.sectionStartTimeStringArray=0&courseSearch.sectionStartMonthStringArray=0&courseSearch.campusStringArray=0	PredictedValue: 0.950150807881
+http://scpd.stanford.edu/search/publicCourseSearchDetails.do?method=load&courseId=11681	PredictedValue: 0.932643346409
+http://scpd.stanford.edu/search/	PredictedValue: 0.932643346409
+http://scpd.stanford.edu/free-stuff/live-webinars-lectures	PredictedValue: 0.932643346409
+http://scpd.stanford.edu/university-online-courses.jsp?gclid=CKnw4Nuaj64CFSwDQAodlCz7gg	PredictedValue: 0.919859473089
+http://web.stanford.edu/class/cs246/faq.html	PredictedValue: 0.813366474717
+
+queryNo: 105	Query: change address in axess
+Ranking of URL:
+https://axess.sahr.stanford.edu/	PredictedValue: 1.0
+https://bechtel.stanford.edu/immigration/address-updates	PredictedValue: 0.999999999936
+https://web.stanford.edu/group/fms/fingate/staff/payemployee/quick_steps/update_phone_address.html	PredictedValue: 0.999998480609
+https://siw.stanford.edu/bsiw-program/student-life/preparing-go	PredictedValue: 0.982620722713
+http://alumni.stanford.edu/get/page/help/faq/update-contact-info	PredictedValue: 0.947506462972
+https://cardinalatwork.stanford.edu/hr-processes-policies/annual-policy-update	PredictedValue: 0.897742893289
+http://comm.stanford.edu/adjunct-guide/human-resources/	PredictedValue: 0.896019468567
+https://registrar.stanford.edu/students/change-name/preferred-name	PredictedValue: 0.870641125408
+https://uit.stanford.edu/emailcalendar	PredictedValue: 0.654228721528
+
+queryNo: 106	Query: stanford visitor parking
+Ranking of URL:
+https://transportation.stanford.edu/visitor-parking-rates	PredictedValue: 1.0
+https://transportation.stanford.edu/parking/purchase-a-parking-permit/visitors	PredictedValue: 1.0
+https://transportation.stanford.edu/parking/deal-with-parking-tickets/parking-enforcement	PredictedValue: 1.0
+https://transportation.stanford.edu/parking	PredictedValue: 1.0
+http://visit.stanford.edu/plan/parking.html	PredictedValue: 1.0
+http://visit.stanford.edu/	PredictedValue: 1.0
+https://museum.stanford.edu/visit/visit_parking.html	PredictedValue: 0.999999998899
+https://naismet2016.stanford.edu/directions	PredictedValue: 0.999994761745
+https://dschool.stanford.edu/groups/dhandbook/wiki/c68f5/Visitors.html	PredictedValue: 0.933184544175
+
+queryNo: 107	Query: physics
+Ranking of URL:
+https://physics.stanford.edu/node/3742	PredictedValue: 1.0
+https://physics.stanford.edu/	PredictedValue: 1.0
+http://web.stanford.edu/dept/app-physics/cgi-bin/	PredictedValue: 1.0
+https://web.stanford.edu/group/ughb/cgi-bin/handbook/index.php/Engineering_Physics_Program	PredictedValue: 1.0
+https://physics.stanford.edu/people/faculty	PredictedValue: 0.999999999999
+https://physics.stanford.edu/node/81	PredictedValue: 0.999999999644
+https://www6.slac.stanford.edu/news/2016-02-23-symmetry-abcs-particle-physics.aspx	PredictedValue: 0.999987768442
+https://physics.stanford.edu/node/297	PredictedValue: 0.996006867956
+https://physics.stanford.edu/node/213	PredictedValue: 0.995736479602
+https://physics.stanford.edu/node/231	PredictedValue: 0.912665334889
+
+queryNo: 108	Query: bechtel international center hours
+Ranking of URL:
+https://bechtel.stanford.edu/about-us/international-student-identification-cards-isic-and-passport-photos	PredictedValue: 1.0
+https://bechtel.stanford.edu/	PredictedValue: 1.0
+https://bechtel.stanford.edu/about-us/hours	PredictedValue: 0.999999999998
+https://bechtel.stanford.edu/immigration/visa-types/f-1j-1-student-visas/leave-absence	PredictedValue: 0.999999999771
+https://bechtel.stanford.edu/departments	PredictedValue: 0.999999999421
+https://bechtel.stanford.edu/immigration/employment/f-1-employment	PredictedValue: 0.999999986827
+https://bechtel.stanford.edu/coming-stanford/new-student-information/removing-enrollment-hold	PredictedValue: 0.999999945084
+https://bechtel.stanford.edu/immigration	PredictedValue: 0.999999815255
+
+queryNo: 109	Query: 24 hour study buildings campus
+Ranking of URL:
+https://library.stanford.edu/libraries/lathrop/24-hour-study-room	PredictedValue: 1.0
+https://police.stanford.edu/pdf/cape-town-2016.pdf	PredictedValue: 0.999999987924
+https://web.stanford.edu/dept/CTL/cgi-bin/academicskillscoaching/category/time-management/page/9/	PredictedValue: 0.989044150708
+https://rde.stanford.edu/studenthousing/traveling-campus	PredictedValue: 0.970963477542
+http://library.stanford.edu/libraries/lathrop/about	PredictedValue: 0.965947714792
+https://www.gsb.stanford.edu/library/services-facilities/services/faculty	PredictedValue: 0.932081304056
+http://maps.stanford.edu/ada/building-ada.cfm?FACIL_ID=08-350	PredictedValue: 0.809228738632
+http://news.stanford.edu/2015/11/20/meyer-green-space-112015/	PredictedValue: 0.750744152132
+https://alumni.stanford.edu/get/page/magazine/article/?article_id=74814	PredictedValue: 0.661488427252
+
+queryNo: 110	Query: stanford healthcare clinics
+Ranking of URL:
+https://med.stanford.edu/neurology/divisions/neuromuscular/adult-neuromuscular-appointment.html	PredictedValue: 0.981231030531
+http://alumni.stanford.edu/home/rta/click?rtaCode=650142&rtaTarget=http://stanfordhealthcare.org/medical-clinics/general-dermatology-clinic.html?ecid=derm-stanmag-480x150-na-jun15&rtaTcode=650142&rtaType=P&eid=343064531776	PredictedValue: 0.971297631548
+http://med.stanford.edu/gastrohep/patient_care/stanford-digestive-health-center.html	PredictedValue: 0.927137516762
+http://livertransplant.stanford.edu/	PredictedValue: 0.908171554903
+http://cancer.stanford.edu/radiationoncology/	PredictedValue: 0.906984384872
+http://med.stanford.edu/gastrohep/patient_care/stanford-digestive-health-center/gi-pain-clinic.html	PredictedValue: 0.901626869898
+http://med.stanford.edu/gastrohep/patient_care/Stanford-Hepatology-Clinic.html	PredictedValue: 0.892084120461
+http://med.stanford.edu/bmt/patient_care.html	PredictedValue: 0.88712634635
+http://cancer.stanford.edu/gastrocolo/	PredictedValue: 0.882903585779
+http://news.stanford.edu/2016/04/13/stanford-health-care-names-david-entwistle-president-ceo/	PredictedValue: 0.881001241501
+
+queryNo: 111	Query: grade replacement policy
+Ranking of URL:
+https://cepa.stanford.edu/sites/default/files/wp16-03-v201601.pdf	PredictedValue: 1.0
+http://hanushek.stanford.edu/sites/default/files/publications/Hanushek%202009%20EducEconomics%2017(3).pdf	PredictedValue: 0.999988375607
+https://edpolicy.stanford.edu/sites/default/files/publications/guidancedocumentmaximizing-learning-investments.pdf	PredictedValue: 0.999982279616
+https://undergrad.stanford.edu/planning/academic-policies/grading-policies	PredictedValue: 0.972642576038
+http://cepa.stanford.edu/news/tenure-or-turnover	PredictedValue: 0.939322787109
+https://registrar.stanford.edu/students/incomplete-changed-and-repeat-grades/repeated-courses	PredictedValue: 0.820817017781
+https://vptl.stanford.edu/teaching-and-learning-innovation/learning-environments/virtual-learning-environments/canvas	PredictedValue: 0.670979649001
+https://fsh.stanford.edu/brochures/ZIP.pdf	PredictedValue: 0.658026326687
+https://registrar.stanford.edu/students/certifications-and-verifications/notarized-documents	PredictedValue: 0.601038595732
+
+queryNo: 112	Query: club sports teams
+Ranking of URL:
+https://www.stanford.edu/dept/pe/cgi-bin/downloads/clubsports/Fall%202016%20Club%20Sports%20Manual%202016-17.pdf	PredictedValue: 1.0
+https://web.stanford.edu/dept/pe/cgi-bin/wp-content/uploads/2009/06/club-sports-manual-2011-2012-copy.pdf	PredictedValue: 1.0
+https://web.stanford.edu/dept/pe/cgi-bin/downloads/clubsports/OfficerGuide.docx	PredictedValue: 1.0
+http://web.stanford.edu/group/womensclubsoccer/	PredictedValue: 0.999999999768
+http://admission.stanford.edu/student/athletics/club_sports.html	PredictedValue: 0.999999981554
+https://explorecourses.stanford.edu/search?q=ATHLETIC&view=catalog&academicYear=&filter-departmentcode-ATHLETIC=on&filter-coursestatus-Active=on&filter-term-Autumn=on&filter-term-Winter=on&filter-term-Spring=on&filter-term-Summer=on&page=0	PredictedValue: 0.999999678454
+http://facts.stanford.edu/campuslife/athletics	PredictedValue: 0.989632242574
+https://web.stanford.edu/group/cycling/join/	PredictedValue: 0.971076902589
+http://web.stanford.edu/dept/OOD/das/YAFeb/common/slideshow/slider.html	PredictedValue: 0.72721779693
+
+queryNo: 113	Query: stanford ap credit chart
+Ranking of URL:
+https://registrar.stanford.edu/students/transfer-credit/advanced-placement	PredictedValue: 1.0
+https://registrar.stanford.edu/students/transfer-credit-and-advanced-placement/advanced-placement/ib-credit-chart	PredictedValue: 1.0
+https://registrar.stanford.edu/students/transfer-credit-and-advanced-placement/advanced-placement/ap-credit-chart	PredictedValue: 1.0
+https://web.stanford.edu/dept/registrar/bulletin1112/4883.htm	PredictedValue: 0.999988805088
+https://ohs.stanford.edu/about/school-profile	PredictedValue: 0.957477858923
+http://exploredegrees.stanford.edu/schoolofhumanitiesandsciences/mathematicalandcomputationalscience/mathematicalandcomputationalscience.pdf	PredictedValue: 0.923973471115
+https://registrar.stanford.edu/students/enrolling-courses/general-education-breadth-requirements	PredictedValue: 0.908403818214
+https://undergrad.stanford.edu/advising/freshman/new-student-orientation-nso/placement-tests-and-diagnostics	PredictedValue: 0.875331043031
+http://web.stanford.edu/group/spa/classes.html	PredictedValue: 0.87296112618
+
+queryNo: 114	Query: axess
+Ranking of URL:
+https://axess.sahr.stanford.edu/	PredictedValue: 1.0
+https://registrar.stanford.edu/resources-and-help/axess-students/how-enroll-classes	PredictedValue: 0.999999998612
+https://registrar.stanford.edu/resources-and-help/axess-faculty-advisors-and-grade-proxies/logging-on-axess	PredictedValue: 0.999999968525
+https://undergrad.stanford.edu/advising/student-guides/how-do-i-use-axess	PredictedValue: 0.999999841323
+https://registrar.stanford.edu/resources-and-help/axess-students/study-list-planner	PredictedValue: 0.999999061082
+https://web.stanford.edu/group/fms/fingate/staff/bulletins/payemployee/w2_axess_consent.html	PredictedValue: 0.99999543508
+http://web.stanford.edu/dept/as/InsideAxess/Login.html	PredictedValue: 0.993688882785
+https://undergrad.stanford.edu/advising/student-guides/how-do-i-enroll-course	PredictedValue: 0.99195504761
+https://registrar.stanford.edu/students/graduation/applying-graduate	PredictedValue: 0.954847280262
+https://web.stanford.edu/group/studentservicescenter/faqs.html	PredictedValue: 0.634660162486
+
+queryNo: 115	Query: trump
+Ranking of URL:
+https://law.stanford.edu/2017/01/11/obamas-lawyers-are-set-to-empower-trump/	PredictedValue: 1.0
+http://shc.stanford.edu/news/news/marine-le-pen-really-france%E2%80%99s-donald-trump	PredictedValue: 1.0
+http://news.stanford.edu/2017/01/30/stanford-experts-president-trump-media/	PredictedValue: 1.0
+http://news.stanford.edu/2017/01/19/hoover-golden-state-poll-californians-arent-fond-trump-agenda-arent-interested-seceding-u-s/	PredictedValue: 1.0
+http://fsi.stanford.edu/news/seasoned-journalist-analyzes-us-china-relations-under-trump	PredictedValue: 1.0
+https://law.stanford.edu/press/mcdonalds-get-relief-trump-appointed-labor-regulators/	PredictedValue: 1.0
+http://fsi.stanford.edu/events/us-prc-taiwan-relations-under-new-administration	PredictedValue: 0.99999996667
+https://cyberlaw.stanford.edu/publications/trump%E2%80%99s-muslim-ban-propaganda-value-violence-against-women	PredictedValue: 0.999982658263
+https://swap.stanford.edu/20130628201224/https://wwws.whitehouse.gov/petitions	PredictedValue: 0.997357427625
+http://fsi.stanford.edu/publication/donald-trumps-trade-policy-back-future	PredictedValue: 0.612420242961
+
+queryNo: 116	Query: campus bike shop hours
+Ranking of URL:
+https://transportation.stanford.edu/bicycle/about-the-bicycle-program/bicycle-safety-educational-efforts-stanford	PredictedValue: 1.0
+https://transportation.stanford.edu/bicycle-promotions	PredictedValue: 1.0
+https://sustainable.stanford.edu/sites/default/files/HowTo_DeptBikeSharing.pdf	PredictedValue: 1.0
+https://parents.stanford.edu/2013/11/14/parent-help-sought-in-getting-students-to-wear-bike-helmets/	PredictedValue: 1.0
+https://lbre.stanford.edu/sites/default/files/bike_map_0.pdf	PredictedValue: 1.0
+https://summer.stanford.edu/wp-content/uploads/2015/06/2015-Welcome-Booklet.pdf	PredictedValue: 0.989305026055
+https://sustainable.stanford.edu/sites/default/files/documents/Sustainable_Stanford_winter10_newsletter.pdf	PredictedValue: 0.984790818704
+http://hstar.stanford.edu/images/Transportation_to_Stanford.pdf	PredictedValue: 0.970779053016
+http://coho.stanford.edu/	PredictedValue: 0.684209537884
+
+queryNo: 117	Query: stanford computer science program sheet
+Ranking of URL:
+https://cs.stanford.edu/degrees/mscs/programsheets/	PredictedValue: 1.0
+http://csmajor.stanford.edu/ProgramSheets.shtml	PredictedValue: 1.0
+http://cs.stanford.edu/degrees/undergrad/	PredictedValue: 1.0
+https://www-cs.stanford.edu/degrees/mscs/programsheets/psguide1314.pdf	PredictedValue: 0.999999999075
+https://web.stanford.edu/group/ughb/cgi-bin/handbook/index.php/Program_Sheets_2012-2013	PredictedValue: 0.999998162727
+https://web.stanford.edu/group/ughb/cgi-bin/handbook/index.php/Program_Sheets_2013-2014	PredictedValue: 0.999997290068
+https://www-cs.stanford.edu/academics/prospective-masters	PredictedValue: 0.999988203884
+http://web.stanford.edu/group/ughb/2016-17/CS_HCI_1617.pdf	PredictedValue: 0.995445264391
+https://www-cs.stanford.edu/degrees/mscs/programsheets/15-16/MSCS-1516-AI-Single.pdf	PredictedValue: 0.986072613949
+http://www-cs.stanford.edu/degrees/mscs/programsheets/16-17/MSCS-1617-RWC-Single.pdf	PredictedValue: 0.983310025114
+
+queryNo: 118	Query: winter quarter final schedule
+Ranking of URL:
+https://registrar.stanford.edu/students/final-exams/previous-years-exams/winter-quarter-exams-2015-16	PredictedValue: 1.0
+https://registrar.stanford.edu/students/final-exams/winter-quarter-exams	PredictedValue: 1.0
+https://registrar.stanford.edu/students/final-exams/spring-quarter-exams	PredictedValue: 0.999999999998
+https://registrar.stanford.edu/faculty/end-term-policies/end-quarter-policy-statement	PredictedValue: 0.999999999998
+https://undergrad.stanford.edu/planning/academic-policies/academic-calendar/end-quarter-and-finals	PredictedValue: 0.999999998578
+https://undergrad.stanford.edu/programs/bosp/explore/berlin/about-program/berlin-key-dates	PredictedValue: 0.999999896215
+https://law.stanford.edu/education/courses/exams-and-papers/	PredictedValue: 0.848214087135
+https://www-cdn.law.stanford.edu/wp-content/uploads/2015/04/2016-2017-academic-calendar-FINAL.pdf	PredictedValue: 0.67082756513
+https://law.stanford.edu/office-of-the-registrar/	PredictedValue: 0.665261723485
+
+queryNo: 119	Query: sublets at stanford
+Ranking of URL:
+https://rde.stanford.edu/studenthousing	PredictedValue: 0.939834805621
+https://spcs.stanford.edu/jobs/summer/faq	PredictedValue: 0.81112160561
+https://rde.stanford.edu/studenthousing/sublicensing-sublicensee-process-and-responsibilities	PredictedValue: 0.781514583589
+http://law.stanford.edu/wp-content/uploads/sites/default/files/child-page/183003/doc/slspublic/bucerius-2012.pdf	PredictedValue: 0.742629785983
+http://med.stanford.edu/relocation/rental.html	PredictedValue: 0.702928136593
+https://rde.stanford.edu/studenthousing/sublicense	PredictedValue: 0.698608796611
+https://rde.stanford.edu/studenthousing/sublicensing-places4students-sublet-advertisements	PredictedValue: 0.65617686911
+https://rde.stanford.edu/studenthousing/apartments-accept-pets	PredictedValue: 0.653866546016
+https://rde.stanford.edu/studenthousing/sublicensing-within-gender-neutral-apartment	PredictedValue: 0.651504757855
+https://fsh.stanford.edu/brochures/ResidentialGroundLease.pdf	PredictedValue: 0.633444245088
+
+queryNo: 120	Query: pool summer opening hours
+Ranking of URL:
+https://cardinalrec.stanford.edu/facilities/facility-hours/	PredictedValue: 0.999999997327
+https://rde.stanford.edu/studenthousing/academic-breaks	PredictedValue: 0.999999991986
+http://web.stanford.edu/group/masters/pool.html	PredictedValue: 0.99999870916
+http://large.stanford.edu/publications/coal/references/docs/planyc_progress_report_2009.pdf	PredictedValue: 0.986239532475
+https://med.stanford.edu/content/dam/sm/cancer/documents/newsletters/SCI%20News%20Summer%202016.pdf	PredictedValue: 0.963131066839
+https://web.stanford.edu/dept/IUC/cgi-bin/resources/other-documents/FAQ%209.2016.pdf	PredictedValue: 0.955178873562
+http://outdoored.stanford.edu/center/	PredictedValue: 0.746145538747
+http://news.stanford.edu/news/2013/august/stanford-youth-orchestra-081513.html	PredictedValue: 0.743362998331
+https://law.stanford.edu/environmental-law-clinic/quarterly-updates/	PredictedValue: 0.72531455588
+https://web.stanford.edu/dept/news/stanfordtoday/ed/9605/9605sf.html	PredictedValue: 0.661804386417
+
+NDCG SCORE:0.809921278193
