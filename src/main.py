@@ -1,5 +1,4 @@
-##########Created By: Nikhil Agrawal, Shubham Yadav##########
-###############Assignment_No.: 3, GroupNo.: 11###############
+####### Created By: Nikhil Agrawal ################
 
 import re
 from collections import Counter
